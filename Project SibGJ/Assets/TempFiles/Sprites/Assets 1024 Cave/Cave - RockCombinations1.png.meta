@@ -1,0 +1,2463 @@
+fileFormatVersion: 2
+guid: 4c135a5ed91424542b72e9d964a67cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3682156335150797254
+    second: Cave - RockCombinations1_0
+  - first:
+      213: -3536965220430970956
+    second: Cave - RockCombinations1_1
+  - first:
+      213: -5677102580950192972
+    second: Cave - RockCombinations1_2
+  - first:
+      213: -4376264198830113516
+    second: Cave - RockCombinations1_3
+  - first:
+      213: 2370744232130491520
+    second: Cave - RockCombinations1_4
+  - first:
+      213: -4957315558633417176
+    second: Cave - RockCombinations1_5
+  - first:
+      213: 1468820117789975543
+    second: Cave - RockCombinations1_6
+  - first:
+      213: 6967650150400871907
+    second: Cave - RockCombinations1_7
+  - first:
+      213: -8009313247971963356
+    second: Cave - RockCombinations1_8
+  - first:
+      213: 790362416303558209
+    second: Cave - RockCombinations1_9
+  - first:
+      213: 1773669622375855222
+    second: Cave - RockCombinations1_10
+  - first:
+      213: 3508485790637871957
+    second: Cave - RockCombinations1_11
+  - first:
+      213: 3636872376884882792
+    second: Cave - RockCombinations1_12
+  - first:
+      213: 9089468503510331075
+    second: Cave - RockCombinations1_13
+  - first:
+      213: -2961241042903359879
+    second: Cave - RockCombinations1_14
+  - first:
+      213: -3610483893686500673
+    second: Cave - RockCombinations1_15
+  - first:
+      213: 8127160317320447058
+    second: Cave - RockCombinations1_16
+  - first:
+      213: -4488851404027565520
+    second: Cave - RockCombinations1_17
+  - first:
+      213: 6688005148523468846
+    second: Cave - RockCombinations1_18
+  - first:
+      213: 8395221792945305921
+    second: Cave - RockCombinations1_19
+  - first:
+      213: -1813235126195224411
+    second: Cave - RockCombinations1_20
+  - first:
+      213: -2616754316802432749
+    second: Cave - RockCombinations1_21
+  - first:
+      213: 7665203199013468302
+    second: Cave - RockCombinations1_22
+  - first:
+      213: 2150622782579936942
+    second: Cave - RockCombinations1_23
+  - first:
+      213: -4552282950547886721
+    second: Cave - RockCombinations1_24
+  - first:
+      213: -2445004216705157125
+    second: Cave - RockCombinations1_25
+  - first:
+      213: -7260024114133849357
+    second: Cave - RockCombinations1_26
+  - first:
+      213: -5501112947833064151
+    second: Cave - RockCombinations1_27
+  - first:
+      213: -9060938736562252293
+    second: Cave - RockCombinations1_28
+  - first:
+      213: -5449814453272534346
+    second: Cave - RockCombinations1_29
+  - first:
+      213: 1128891791466972647
+    second: Cave - RockCombinations1_30
+  - first:
+      213: 454001161578079502
+    second: Cave - RockCombinations1_31
+  - first:
+      213: -4616544141023207404
+    second: Cave - RockCombinations1_32
+  - first:
+      213: -3257321443766129816
+    second: Cave - RockCombinations1_33
+  - first:
+      213: -9028646951047979720
+    second: Cave - RockCombinations1_34
+  - first:
+      213: 6710789908786331357
+    second: Cave - RockCombinations1_35
+  - first:
+      213: 3178069126507156514
+    second: Cave - RockCombinations1_36
+  - first:
+      213: 6291912607608332916
+    second: Cave - RockCombinations1_37
+  - first:
+      213: 52750155915056811
+    second: Cave - RockCombinations1_38
+  - first:
+      213: -8049045948788455260
+    second: Cave - RockCombinations1_39
+  - first:
+      213: 5242899654069154836
+    second: Cave - RockCombinations1_40
+  - first:
+      213: 971562921025885564
+    second: Cave - RockCombinations1_41
+  - first:
+      213: 5789644471571198932
+    second: Cave - RockCombinations1_42
+  - first:
+      213: 7483096696675712854
+    second: Cave - RockCombinations1_43
+  - first:
+      213: -1151728531974708364
+    second: Cave - RockCombinations1_44
+  - first:
+      213: -4891092072661841373
+    second: Cave - RockCombinations1_45
+  - first:
+      213: -4782525038951260870
+    second: Cave - RockCombinations1_46
+  - first:
+      213: -8423299373363157984
+    second: Cave - RockCombinations1_47
+  - first:
+      213: 5849780034065615288
+    second: Cave - RockCombinations1_48
+  - first:
+      213: -1286579043504064026
+    second: Cave - RockCombinations1_49
+  - first:
+      213: -2082515697496530741
+    second: Cave - RockCombinations1_50
+  - first:
+      213: 932065925175972076
+    second: Cave - RockCombinations1_51
+  - first:
+      213: 2392893154889474321
+    second: Cave - RockCombinations1_52
+  - first:
+      213: 4887491019950880195
+    second: Cave - RockCombinations1_53
+  - first:
+      213: -1196108896294882979
+    second: Cave - RockCombinations1_54
+  - first:
+      213: 6595991747533202564
+    second: Cave - RockCombinations1_55
+  - first:
+      213: -6174951987681833423
+    second: Cave - RockCombinations1_56
+  - first:
+      213: 6145672058885420669
+    second: Cave - RockCombinations1_57
+  - first:
+      213: -3212103942384039888
+    second: Cave - RockCombinations1_58
+  - first:
+      213: -4822472130496335298
+    second: Cave - RockCombinations1_59
+  - first:
+      213: 4408943753819329866
+    second: Cave - RockCombinations1_60
+  - first:
+      213: -6867476443339078922
+    second: Cave - RockCombinations1_61
+  - first:
+      213: -4404075282199543539
+    second: Cave - RockCombinations1_62
+  - first:
+      213: 8189229552911484964
+    second: Cave - RockCombinations1_63
+  - first:
+      213: 5402108199991904490
+    second: Cave - RockCombinations1_64
+  - first:
+      213: 716471005736507837
+    second: Cave - RockCombinations1_65
+  - first:
+      213: 9097530367388568897
+    second: Cave - RockCombinations1_66
+  - first:
+      213: 3768147809000129003
+    second: Cave - RockCombinations1_67
+  - first:
+      213: 2806148348829849345
+    second: Cave - RockCombinations1_68
+  - first:
+      213: -3444223828585199001
+    second: Cave - RockCombinations1_69
+  - first:
+      213: 1097966478979791734
+    second: Cave - RockCombinations1_70
+  - first:
+      213: 4267388676904448219
+    second: Cave - RockCombinations1_71
+  - first:
+      213: 6882532477387963874
+    second: Cave - RockCombinations1_72
+  - first:
+      213: 6827151172814767654
+    second: Cave - RockCombinations1_73
+  - first:
+      213: -1430848353573949754
+    second: Cave - RockCombinations1_74
+  - first:
+      213: -1009245397482795017
+    second: Cave - RockCombinations1_75
+  - first:
+      213: 1719491988982835212
+    second: Cave - RockCombinations1_76
+  - first:
+      213: 7700986871259907332
+    second: Cave - RockCombinations1_77
+  - first:
+      213: -5503534232621251174
+    second: Cave - RockCombinations1_78
+  - first:
+      213: 3017198637146128982
+    second: Cave - RockCombinations1_79
+  - first:
+      213: 7646930681279762920
+    second: Cave - RockCombinations1_80
+  - first:
+      213: 1026514419765897088
+    second: Cave - RockCombinations1_81
+  - first:
+      213: 3928440625217258521
+    second: Cave - RockCombinations1_82
+  - first:
+      213: 1108446476493114912
+    second: Cave - RockCombinations1_83
+  - first:
+      213: 4326841231496746782
+    second: Cave - RockCombinations1_84
+  - first:
+      213: 8610597490722448870
+    second: Cave - RockCombinations1_85
+  - first:
+      213: -179719223064511456
+    second: Cave - RockCombinations1_86
+  - first:
+      213: -7678132887023339677
+    second: Cave - RockCombinations1_87
+  - first:
+      213: -8918535750661872972
+    second: Cave - RockCombinations1_88
+  - first:
+      213: 71309095660284399
+    second: Cave - RockCombinations1_89
+  - first:
+      213: 4245160977926485654
+    second: Cave - RockCombinations1_90
+  - first:
+      213: 195524090759207722
+    second: Cave - RockCombinations1_91
+  - first:
+      213: 8783925840065449951
+    second: Cave - RockCombinations1_92
+  - first:
+      213: 7769245308357391717
+    second: Cave - RockCombinations1_93
+  - first:
+      213: 3518644514585977139
+    second: Cave - RockCombinations1_94
+  - first:
+      213: -5073135446210631347
+    second: Cave - RockCombinations1_95
+  - first:
+      213: -217322960854756077
+    second: Cave - RockCombinations1_96
+  - first:
+      213: -637159540892429669
+    second: Cave - RockCombinations1_97
+  - first:
+      213: 6053474556481366034
+    second: Cave - RockCombinations1_98
+  - first:
+      213: -4513775075986383183
+    second: Cave - RockCombinations1_99
+  - first:
+      213: -7020440647151529538
+    second: Cave - RockCombinations1_100
+  - first:
+      213: 8385380336903002404
+    second: Cave - RockCombinations1_101
+  - first:
+      213: -4774676698258128142
+    second: Cave - RockCombinations1_102
+  - first:
+      213: 5470448875315720632
+    second: Cave - RockCombinations1_103
+  - first:
+      213: 2163910500172975777
+    second: Cave - RockCombinations1_104
+  - first:
+      213: -8132642501621821800
+    second: Cave - RockCombinations1_105
+  - first:
+      213: 7691051925725276739
+    second: Cave - RockCombinations1_106
+  - first:
+      213: 9013040445313623065
+    second: Cave - RockCombinations1_107
+  - first:
+      213: -562951008559150339
+    second: Cave - RockCombinations1_108
+  - first:
+      213: -2000788786411304754
+    second: Cave - RockCombinations1_109
+  - first:
+      213: -8453967801844785603
+    second: Cave - RockCombinations1_110
+  - first:
+      213: -1289912051477593583
+    second: Cave - RockCombinations1_111
+  - first:
+      213: 5731068118650529831
+    second: Cave - RockCombinations1_112
+  - first:
+      213: -1456052819716860302
+    second: Cave - RockCombinations1_113
+  - first:
+      213: 993512446986968983
+    second: Cave - RockCombinations1_114
+  - first:
+      213: 314500225601613735
+    second: Cave - RockCombinations1_115
+  - first:
+      213: -6606949694995091478
+    second: Cave - RockCombinations1_116
+  - first:
+      213: 901090323675306714
+    second: Cave - RockCombinations1_117
+  - first:
+      213: 3790714409992316682
+    second: Cave - RockCombinations1_118
+  - first:
+      213: -9146379979105561144
+    second: Cave - RockCombinations1_119
+  - first:
+      213: 1133787079722528920
+    second: Cave - RockCombinations1_120
+  - first:
+      213: 9022001133597425911
+    second: Cave - RockCombinations1_121
+  - first:
+      213: -2531174620408996344
+    second: Cave - RockCombinations1_122
+  - first:
+      213: -2127263191338755169
+    second: Cave - RockCombinations1_123
+  - first:
+      213: -3331626289586363366
+    second: Cave - RockCombinations1_124
+  - first:
+      213: -3878361848575481720
+    second: Cave - RockCombinations1_125
+  - first:
+      213: -6030495010239059068
+    second: Cave - RockCombinations1_126
+  - first:
+      213: 5785824029418865070
+    second: Cave - RockCombinations1_127
+  - first:
+      213: 3417960717173183211
+    second: Cave - RockCombinations1_128
+  - first:
+      213: -6050991435909217267
+    second: Cave - RockCombinations1_129
+  - first:
+      213: -2653991595688768541
+    second: Cave - RockCombinations1_130
+  - first:
+      213: -7034649565017656415
+    second: Cave - RockCombinations1_131
+  - first:
+      213: 472854241271713429
+    second: Cave - RockCombinations1_132
+  - first:
+      213: -5250295877043291937
+    second: Cave - RockCombinations1_133
+  - first:
+      213: -7879660554877191001
+    second: Cave - RockCombinations1_134
+  - first:
+      213: 6212365291539777223
+    second: Cave - RockCombinations1_135
+  - first:
+      213: -504696497798770957
+    second: Cave - RockCombinations1_136
+  - first:
+      213: -6460774224274913185
+    second: Cave - RockCombinations1_137
+  - first:
+      213: -2278915056729816952
+    second: Cave - RockCombinations1_138
+  - first:
+      213: 6583409480350086812
+    second: Cave - RockCombinations1_139
+  - first:
+      213: 276660565498755922
+    second: Cave - RockCombinations1_140
+  - first:
+      213: -6949587074943476076
+    second: Cave - RockCombinations1_141
+  - first:
+      213: -8181196630292979150
+    second: Cave - RockCombinations1_142
+  - first:
+      213: -7351187439966481568
+    second: Cave - RockCombinations1_143
+  - first:
+      213: -6470761600232958831
+    second: Cave - RockCombinations1_144
+  - first:
+      213: -1516696015920867326
+    second: Cave - RockCombinations1_145
+  - first:
+      213: -5001541726958057689
+    second: Cave - RockCombinations1_146
+  - first:
+      213: -3274604865199637236
+    second: Cave - RockCombinations1_147
+  - first:
+      213: 5144216170533861039
+    second: Cave - RockCombinations1_148
+  - first:
+      213: -516414973787256114
+    second: Cave - RockCombinations1_149
+  - first:
+      213: -8004649718002038488
+    second: Cave - RockCombinations1_150
+  - first:
+      213: 5727397830697631410
+    second: Cave - RockCombinations1_151
+  - first:
+      213: 3682242744770053900
+    second: Cave - RockCombinations1_152
+  - first:
+      213: 7598440802566543137
+    second: Cave - RockCombinations1_153
+  - first:
+      213: -3372934873297119037
+    second: Cave - RockCombinations1_154
+  - first:
+      213: -4204121419248813560
+    second: Cave - RockCombinations1_155
+  - first:
+      213: 7894017240949413208
+    second: Cave - RockCombinations1_156
+  - first:
+      213: -8730951856796371050
+    second: Cave - RockCombinations1_157
+  - first:
+      213: 1330510566337804389
+    second: Cave - RockCombinations1_158
+  - first:
+      213: 479657071992784904
+    second: Cave - RockCombinations1_159
+  - first:
+      213: -8338405284746188455
+    second: Cave - RockCombinations1_160
+  - first:
+      213: 3752713538200496642
+    second: Cave - RockCombinations1_161
+  - first:
+      213: 2549661901142469941
+    second: Cave - RockCombinations1_162
+  - first:
+      213: -2566316893793089278
+    second: Cave - RockCombinations1_163
+  - first:
+      213: 1858552439528085151
+    second: Cave - RockCombinations1_164
+  - first:
+      213: 7481157955045942650
+    second: Cave - RockCombinations1_165
+  - first:
+      213: -7748584892886782659
+    second: Cave - RockCombinations1_166
+  - first:
+      213: 4568560461874896485
+    second: Cave - RockCombinations1_167
+  - first:
+      213: 3984840642227324965
+    second: Cave - RockCombinations1_168
+  - first:
+      213: 4320200355075679817
+    second: Cave - RockCombinations1_169
+  - first:
+      213: 123906839087997682
+    second: Cave - RockCombinations1_170
+  - first:
+      213: 6167082499177171054
+    second: Cave - RockCombinations1_171
+  - first:
+      213: 7482904983513912182
+    second: Cave - RockCombinations1_172
+  - first:
+      213: 5729541635986309787
+    second: Cave - RockCombinations1_173
+  - first:
+      213: -6051311118419852047
+    second: Cave - RockCombinations1_174
+  - first:
+      213: -225564247868695905
+    second: Cave - RockCombinations1_175
+  - first:
+      213: -2711657126869560458
+    second: Cave - RockCombinations1_176
+  - first:
+      213: -3166048521671141619
+    second: Cave - RockCombinations1_177
+  - first:
+      213: 6207731458264768820
+    second: Cave - RockCombinations1_178
+  - first:
+      213: 3111501333782119362
+    second: Cave - RockCombinations1_179
+  - first:
+      213: 2582457238798743092
+    second: Cave - RockCombinations1_180
+  - first:
+      213: 3039973152526091745
+    second: Cave - RockCombinations1_181
+  - first:
+      213: -2160982118584112
+    second: Cave - RockCombinations1_182
+  - first:
+      213: -3780487644781515581
+    second: Cave - RockCombinations1_183
+  - first:
+      213: 8543232059977002813
+    second: Cave - RockCombinations1_184
+  - first:
+      213: -5656097646818557854
+    second: Cave - RockCombinations1_185
+  - first:
+      213: -3816442093505679790
+    second: Cave - RockCombinations1_186
+  - first:
+      213: 4534974982105022494
+    second: Cave - RockCombinations1_187
+  - first:
+      213: -7517181903835487408
+    second: Cave - RockCombinations1_188
+  - first:
+      213: -3052316563430905922
+    second: Cave - RockCombinations1_189
+  - first:
+      213: 8199782262310159442
+    second: Cave - RockCombinations1_190
+  - first:
+      213: -6808539081386084481
+    second: Cave - RockCombinations1_191
+  - first:
+      213: -3585213145846070972
+    second: Cave - RockCombinations1_192
+  - first:
+      213: 5843811348139633586
+    second: Cave - RockCombinations1_193
+  - first:
+      213: -7560910514150319490
+    second: Cave - RockCombinations1_194
+  - first:
+      213: -2590311372537167197
+    second: Cave - RockCombinations1_195
+  - first:
+      213: -7854732155748033355
+    second: Cave - RockCombinations1_196
+  - first:
+      213: 5846517242017258628
+    second: Cave - RockCombinations1_197
+  - first:
+      213: 2966540310304925981
+    second: Cave - RockCombinations1_198
+  - first:
+      213: 8044021035815419636
+    second: Cave - RockCombinations1_199
+  - first:
+      213: 8708332952797263999
+    second: Cave - RockCombinations1_200
+  - first:
+      213: 4202590613283334488
+    second: Cave - RockCombinations1_201
+  - first:
+      213: 1050110367934971667
+    second: Cave - RockCombinations1_202
+  - first:
+      213: 5502515529381447391
+    second: Cave - RockCombinations1_203
+  - first:
+      213: 4509980093839290873
+    second: Cave - RockCombinations1_204
+  - first:
+      213: 6294242326266112536
+    second: Cave - RockCombinations1_205
+  - first:
+      213: -7244956261045426642
+    second: Cave - RockCombinations1_206
+  - first:
+      213: -2659830395338314165
+    second: Cave - RockCombinations1_207
+  - first:
+      213: -1954107956805260085
+    second: Cave - RockCombinations1_208
+  - first:
+      213: 6842780147540053231
+    second: Cave - RockCombinations1_209
+  - first:
+      213: -7286504836456945445
+    second: Cave - RockCombinations1_210
+  - first:
+      213: -5013705158077517836
+    second: Cave - RockCombinations1_211
+  - first:
+      213: -5314253895566542183
+    second: Cave - RockCombinations1_212
+  - first:
+      213: 7344632417965533234
+    second: Cave - RockCombinations1_213
+  - first:
+      213: 8411183394741807635
+    second: Cave - RockCombinations1_214
+  - first:
+      213: 486872800178502422
+    second: Cave - RockCombinations1_215
+  - first:
+      213: -223650820867572531
+    second: Cave - RockCombinations1_216
+  - first:
+      213: -6654170225068590279
+    second: Cave - RockCombinations1_217
+  - first:
+      213: -1736958146293660894
+    second: Cave - RockCombinations1_218
+  - first:
+      213: -622941590882387703
+    second: Cave - RockCombinations1_219
+  - first:
+      213: 2885316380025241401
+    second: Cave - RockCombinations1_220
+  - first:
+      213: -1749526138862451076
+    second: Cave - RockCombinations1_221
+  - first:
+      213: -4713114589717514306
+    second: Cave - RockCombinations1_222
+  - first:
+      213: 184527186045599238
+    second: Cave - RockCombinations1_223
+  - first:
+      213: -5475131165086351568
+    second: Cave - RockCombinations1_224
+  - first:
+      213: -3310148990128942014
+    second: Cave - RockCombinations1_225
+  - first:
+      213: -4239502042410786937
+    second: Cave - RockCombinations1_226
+  - first:
+      213: -4705275288762618009
+    second: Cave - RockCombinations1_227
+  - first:
+      213: -1972111502472504141
+    second: Cave - RockCombinations1_228
+  - first:
+      213: -8264150219248918593
+    second: Cave - RockCombinations1_229
+  - first:
+      213: -1245178037190533230
+    second: Cave - RockCombinations1_230
+  - first:
+      213: 1237679721290627333
+    second: Cave - RockCombinations1_231
+  - first:
+      213: -529512266498256051
+    second: Cave - RockCombinations1_232
+  - first:
+      213: 2611246112277428850
+    second: Cave - RockCombinations1_233
+  - first:
+      213: 7518166791298116234
+    second: Cave - RockCombinations1_234
+  - first:
+      213: -4631654987193113980
+    second: Cave - RockCombinations1_235
+  - first:
+      213: 7619819920373172148
+    second: Cave - RockCombinations1_236
+  - first:
+      213: 402805958545930230
+    second: Cave - RockCombinations1_237
+  - first:
+      213: -4062791971870156280
+    second: Cave - RockCombinations1_238
+  - first:
+      213: -6384748963574769244
+    second: Cave - RockCombinations1_239
+  - first:
+      213: 7172722876862707779
+    second: Cave - RockCombinations1_240
+  - first:
+      213: -1124342302527427050
+    second: Cave - RockCombinations1_241
+  - first:
+      213: 5269464468578451286
+    second: Cave - RockCombinations1_242
+  - first:
+      213: 4208519308130720630
+    second: Cave - RockCombinations1_243
+  - first:
+      213: -7412805036619201483
+    second: Cave - RockCombinations1_244
+  - first:
+      213: 3495749378957654454
+    second: Cave - RockCombinations1_245
+  - first:
+      213: 6194513084659958303
+    second: Cave - RockCombinations1_246
+  - first:
+      213: -5174436034388264092
+    second: Cave - RockCombinations1_247
+  - first:
+      213: 7871344283659663310
+    second: Cave - RockCombinations1_248
+  - first:
+      213: 7022845792582588098
+    second: Cave - RockCombinations1_249
+  - first:
+      213: 7159863783997661804
+    second: Cave - RockCombinations1_250
+  - first:
+      213: -8599459595059118153
+    second: Cave - RockCombinations1_251
+  - first:
+      213: -1582666487942595242
+    second: Cave - RockCombinations1_252
+  - first:
+      213: 735819537990770401
+    second: Cave - RockCombinations1_253
+  - first:
+      213: -5559171796320246042
+    second: Cave - RockCombinations1_254
+  - first:
+      213: 6003828309131256926
+    second: Cave - RockCombinations1_255
+  - first:
+      213: 5491249102572407363
+    second: Cave - RockCombinations1_256
+  - first:
+      213: -3425463399588255748
+    second: Cave - RockCombinations1_257
+  - first:
+      213: 582306492996067771
+    second: Cave - RockCombinations1_258
+  - first:
+      213: -3270456090025732683
+    second: Cave - RockCombinations1_259
+  - first:
+      213: 6155407019151734104
+    second: Cave - RockCombinations1_260
+  - first:
+      213: 5730057127504476953
+    second: Cave - RockCombinations1_261
+  - first:
+      213: 4764017482231436702
+    second: Cave - RockCombinations1_262
+  - first:
+      213: 7391996806018909256
+    second: Cave - RockCombinations1_263
+  - first:
+      213: 6668432726510516475
+    second: Cave - RockCombinations1_264
+  - first:
+      213: 3080649737502536424
+    second: Cave - RockCombinations1_265
+  - first:
+      213: -5864670723156264766
+    second: Cave - RockCombinations1_266
+  - first:
+      213: -3498833741100417882
+    second: Cave - RockCombinations1_267
+  - first:
+      213: 3597191108251665192
+    second: Cave - RockCombinations1_268
+  - first:
+      213: 2537793306907242762
+    second: Cave - RockCombinations1_269
+  - first:
+      213: 4905571941473471987
+    second: Cave - RockCombinations1_270
+  - first:
+      213: -7144637435424864912
+    second: Cave - RockCombinations1_271
+  - first:
+      213: 4372834342740387672
+    second: Cave - RockCombinations1_272
+  - first:
+      213: -1980790671096212946
+    second: Cave - RockCombinations1_273
+  - first:
+      213: -6965921665597198570
+    second: Cave - RockCombinations1_274
+  - first:
+      213: -7290871907962012239
+    second: Cave - RockCombinations1_275
+  - first:
+      213: -4186914425792792716
+    second: Cave - RockCombinations1_276
+  - first:
+      213: 1357831895646090946
+    second: Cave - RockCombinations1_277
+  - first:
+      213: 2516012313426048510
+    second: Cave - RockCombinations1_278
+  - first:
+      213: 6852206321007245354
+    second: Cave - RockCombinations1_279
+  - first:
+      213: 7941227543861599229
+    second: Cave - RockCombinations1_280
+  - first:
+      213: -8171170910552698359
+    second: Cave - RockCombinations1_281
+  - first:
+      213: 1788458726750947215
+    second: Cave - RockCombinations1_282
+  - first:
+      213: -2840068923999480601
+    second: Cave - RockCombinations1_283
+  - first:
+      213: -7530658716696918287
+    second: Cave - RockCombinations1_284
+  - first:
+      213: 8500004977733685128
+    second: Cave - RockCombinations1_285
+  - first:
+      213: 7175576637193949298
+    second: Cave - RockCombinations1_286
+  - first:
+      213: 1450892184525134740
+    second: Cave - RockCombinations1_287
+  - first:
+      213: -1834122895073792564
+    second: Cave - RockCombinations1_288
+  - first:
+      213: -7266282876463862655
+    second: Cave - RockCombinations1_289
+  - first:
+      213: -1816283129282259820
+    second: Cave - RockCombinations1_290
+  - first:
+      213: 5053433103218964941
+    second: Cave - RockCombinations1_291
+  - first:
+      213: -1201351268675935
+    second: Cave - RockCombinations1_292
+  - first:
+      213: 4042757199722453321
+    second: Cave - RockCombinations1_293
+  - first:
+      213: 6891706608194606386
+    second: Cave - RockCombinations1_294
+  - first:
+      213: -8456378108706385641
+    second: Cave - RockCombinations1_295
+  - first:
+      213: -6252302693326305605
+    second: Cave - RockCombinations1_296
+  - first:
+      213: 6467540040017474638
+    second: Cave - RockCombinations1_297
+  - first:
+      213: -5754189879620724275
+    second: Cave - RockCombinations1_298
+  - first:
+      213: 2446011009296647721
+    second: Cave - RockCombinations1_299
+  - first:
+      213: 7227355329057742171
+    second: Cave - RockCombinations1_300
+  - first:
+      213: 4483981860093836505
+    second: Cave - RockCombinations1_301
+  - first:
+      213: 5602562765954415009
+    second: Cave - RockCombinations1_302
+  - first:
+      213: -746524527215103896
+    second: Cave - RockCombinations1_303
+  - first:
+      213: 5892913114254795923
+    second: Cave - RockCombinations1_304
+  - first:
+      213: -9037634389908592032
+    second: Cave - RockCombinations1_305
+  - first:
+      213: -5633422144496472874
+    second: Cave - RockCombinations1_306
+  - first:
+      213: -5045901194562863788
+    second: Cave - RockCombinations1_307
+  - first:
+      213: 2786837158653662025
+    second: Cave - RockCombinations1_308
+  - first:
+      213: -9093761888724747989
+    second: Cave - RockCombinations1_309
+  - first:
+      213: -389295270925160834
+    second: Cave - RockCombinations1_310
+  - first:
+      213: 5041539400420888333
+    second: Cave - RockCombinations1_311
+  - first:
+      213: -7609122099068531348
+    second: Cave - RockCombinations1_312
+  - first:
+      213: -1491142258671587792
+    second: Cave - RockCombinations1_313
+  - first:
+      213: -3371585055233501217
+    second: Cave - RockCombinations1_314
+  - first:
+      213: -1653089379706314015
+    second: Cave - RockCombinations1_315
+  - first:
+      213: 5220645330216942865
+    second: Cave - RockCombinations1_316
+  - first:
+      213: -5620526880168732744
+    second: Cave - RockCombinations1_317
+  - first:
+      213: 983289279429160217
+    second: Cave - RockCombinations1_318
+  - first:
+      213: 4124854780321157246
+    second: Cave - RockCombinations1_319
+  - first:
+      213: 293830018236090446
+    second: Cave - RockCombinations1_320
+  - first:
+      213: -3925634524479476997
+    second: Cave - RockCombinations1_321
+  - first:
+      213: 6069228013166632902
+    second: Cave - RockCombinations1_322
+  - first:
+      213: -6608229431535849399
+    second: Cave - RockCombinations1_323
+  - first:
+      213: 873392236749391774
+    second: Cave - RockCombinations1_324
+  - first:
+      213: -6431197818778758761
+    second: Cave - RockCombinations1_325
+  - first:
+      213: 2761079657414602844
+    second: Cave - RockCombinations1_326
+  - first:
+      213: 3600865984407455343
+    second: Cave - RockCombinations1_327
+  - first:
+      213: 5892748129283430276
+    second: Cave - RockCombinations1_328
+  - first:
+      213: -7748731759877498593
+    second: Cave - RockCombinations1_329
+  - first:
+      213: -2457521231306662393
+    second: Cave - RockCombinations1_330
+  - first:
+      213: 2008168489383541405
+    second: Cave - RockCombinations1_331
+  - first:
+      213: -1674141854183186032
+    second: Cave - RockCombinations1_332
+  - first:
+      213: 8585648870295274114
+    second: Cave - RockCombinations1_333
+  - first:
+      213: 4909408638895056252
+    second: Cave - RockCombinations1_334
+  - first:
+      213: -829578149495319804
+    second: Cave - RockCombinations1_335
+  - first:
+      213: -703089495407191413
+    second: Cave - RockCombinations1_336
+  - first:
+      213: -6998719608685822619
+    second: Cave - RockCombinations1_337
+  - first:
+      213: -6319978173552505366
+    second: Cave - RockCombinations1_338
+  - first:
+      213: 688397455411587631
+    second: Cave - RockCombinations1_339
+  - first:
+      213: 7886659909342705315
+    second: Cave - RockCombinations1_340
+  - first:
+      213: -9072817050307104787
+    second: Cave - RockCombinations1_341
+  - first:
+      213: -4157135706081361362
+    second: Cave - RockCombinations1_342
+  - first:
+      213: -8382557459343191229
+    second: Cave - RockCombinations1_343
+  - first:
+      213: -4913476690189703928
+    second: Cave - RockCombinations1_344
+  - first:
+      213: 929249931131179670
+    second: Cave - RockCombinations1_345
+  - first:
+      213: 7842935889019215510
+    second: Cave - RockCombinations1_346
+  - first:
+      213: -7190747880873310630
+    second: Cave - RockCombinations1_347
+  - first:
+      213: 683960322750349432
+    second: Cave - RockCombinations1_348
+  - first:
+      213: -4708289739118477310
+    second: Cave - RockCombinations1_349
+  - first:
+      213: -6684906429125937530
+    second: Cave - RockCombinations1_350
+  - first:
+      213: -9126438052788576471
+    second: Cave - RockCombinations1_351
+  - first:
+      213: 6721760394761710076
+    second: Cave - RockCombinations1_352
+  - first:
+      213: 9200074013884638202
+    second: Cave - RockCombinations1_353
+  - first:
+      213: 4101767195858248651
+    second: Cave - RockCombinations1_354
+  - first:
+      213: -2437406736570253336
+    second: Cave - RockCombinations1_355
+  - first:
+      213: -7975698377774683215
+    second: Cave - RockCombinations1_356
+  - first:
+      213: 8580810529609658326
+    second: Cave - RockCombinations1_357
+  - first:
+      213: 7224573882837558096
+    second: Cave - RockCombinations1_358
+  - first:
+      213: -8516712022154494944
+    second: Cave - RockCombinations1_359
+  - first:
+      213: 5704673538668851242
+    second: Cave - RockCombinations1_360
+  - first:
+      213: -3927196547974428035
+    second: Cave - RockCombinations1_361
+  - first:
+      213: -474305725697942378
+    second: Cave - RockCombinations1_362
+  - first:
+      213: 3966166255879646083
+    second: Cave - RockCombinations1_363
+  - first:
+      213: -1542793804142624737
+    second: Cave - RockCombinations1_364
+  - first:
+      213: 644133661262389027
+    second: Cave - RockCombinations1_365
+  - first:
+      213: 4898374647078499541
+    second: Cave - RockCombinations1_366
+  - first:
+      213: 9196714692112328216
+    second: Cave - RockCombinations1_367
+  - first:
+      213: 8357727579292841285
+    second: Cave - RockCombinations1_368
+  - first:
+      213: 672873449055924726
+    second: Cave - RockCombinations1_369
+  - first:
+      213: -2490327011130336444
+    second: Cave - RockCombinations1_370
+  - first:
+      213: 507286343622327590
+    second: Cave - RockCombinations1_371
+  - first:
+      213: 4482628780752296226
+    second: Cave - RockCombinations1_372
+  - first:
+      213: 4792603839599887169
+    second: Cave - RockCombinations1_373
+  - first:
+      213: 2432245301500325392
+    second: Cave - RockCombinations1_374
+  - first:
+      213: 727344444479285840
+    second: Cave - RockCombinations1_375
+  - first:
+      213: 2155602264945879899
+    second: Cave - RockCombinations1_376
+  - first:
+      213: -1670978229074085093
+    second: Cave - RockCombinations1_377
+  - first:
+      213: 911286724242811087
+    second: Cave - RockCombinations1_378
+  - first:
+      213: -2482578710883801630
+    second: Cave - RockCombinations1_379
+  - first:
+      213: -640152755978572099
+    second: Cave - RockCombinations1_380
+  - first:
+      213: 781721013682459832
+    second: Cave - RockCombinations1_381
+  - first:
+      213: -364372671969258053
+    second: Cave - RockCombinations1_382
+  - first:
+      213: 2261945442537720587
+    second: Cave - RockCombinations1_383
+  - first:
+      213: 8557045997643598285
+    second: Cave - RockCombinations1_384
+  - first:
+      213: 684366109070328659
+    second: Cave - RockCombinations1_385
+  - first:
+      213: -3086507949801323262
+    second: Cave - RockCombinations1_386
+  - first:
+      213: 633970206703005697
+    second: Cave - RockCombinations1_387
+  - first:
+      213: -6987663154905751291
+    second: Cave - RockCombinations1_388
+  - first:
+      213: 6542343663493956146
+    second: Cave - RockCombinations1_389
+  - first:
+      213: 3993553723288862158
+    second: Cave - RockCombinations1_390
+  - first:
+      213: -6608314755531958352
+    second: Cave - RockCombinations1_391
+  - first:
+      213: -5813617461722126707
+    second: Cave - RockCombinations1_392
+  - first:
+      213: -7169543328398554131
+    second: Cave - RockCombinations1_393
+  - first:
+      213: -8733907000298516117
+    second: Cave - RockCombinations1_394
+  - first:
+      213: -6635402723677892564
+    second: Cave - RockCombinations1_395
+  - first:
+      213: -5819873449994842622
+    second: Cave - RockCombinations1_396
+  - first:
+      213: 9156665845698051356
+    second: Cave - RockCombinations1_397
+  - first:
+      213: 2459234481423320480
+    second: Cave - RockCombinations1_398
+  - first:
+      213: 7425171428771913899
+    second: Cave - RockCombinations1_399
+  - first:
+      213: 4144206575841187312
+    second: Cave - RockCombinations1_400
+  - first:
+      213: 1715145275985399988
+    second: Cave - RockCombinations1_401
+  - first:
+      213: 3524582949253119607
+    second: Cave - RockCombinations1_402
+  - first:
+      213: -2433008287721112002
+    second: Cave - RockCombinations1_403
+  - first:
+      213: -2640082086575983038
+    second: Cave - RockCombinations1_404
+  - first:
+      213: 2484533194624524204
+    second: Cave - RockCombinations1_405
+  - first:
+      213: 5279843947102852367
+    second: Cave - RockCombinations1_406
+  - first:
+      213: 5199557775621469703
+    second: Cave - RockCombinations1_407
+  - first:
+      213: -6412150710419924692
+    second: Cave - RockCombinations1_408
+  - first:
+      213: -2706594896795439853
+    second: Cave - RockCombinations1_409
+  - first:
+      213: 5138467741268460988
+    second: Cave - RockCombinations1_410
+  - first:
+      213: 6878480228045181655
+    second: Cave - RockCombinations1_411
+  - first:
+      213: 7844951133774867710
+    second: Cave - RockCombinations1_412
+  - first:
+      213: -5435975276341231958
+    second: Cave - RockCombinations1_413
+  - first:
+      213: -2525550196988464568
+    second: Cave - RockCombinations1_414
+  - first:
+      213: -1752353240694990695
+    second: Cave - RockCombinations1_415
+  - first:
+      213: -7180570583530001600
+    second: Cave - RockCombinations1_416
+  - first:
+      213: -2926678744805245071
+    second: Cave - RockCombinations1_417
+  - first:
+      213: 4530131378279569722
+    second: Cave - RockCombinations1_418
+  - first:
+      213: 3615412653448975157
+    second: Cave - RockCombinations1_419
+  - first:
+      213: -7348659247639541952
+    second: Cave - RockCombinations1_420
+  - first:
+      213: -8007157794518770160
+    second: Cave - RockCombinations1_421
+  - first:
+      213: -8475562122084068092
+    second: Cave - RockCombinations1_422
+  - first:
+      213: 2899233502487875131
+    second: Cave - RockCombinations1_423
+  - first:
+      213: 4859920393012070349
+    second: Cave - RockCombinations1_424
+  - first:
+      213: 1913271015266957976
+    second: Cave - RockCombinations1_425
+  - first:
+      213: 3481915589705664495
+    second: Cave - RockCombinations1_426
+  - first:
+      213: 4687200433208834997
+    second: Cave - RockCombinations1_427
+  - first:
+      213: 3412801975718544590
+    second: Cave - RockCombinations1_428
+  - first:
+      213: 1348325433744470390
+    second: Cave - RockCombinations1_429
+  - first:
+      213: 3401216978905215392
+    second: Cave - RockCombinations1_430
+  - first:
+      213: 5564748560003482855
+    second: Cave - RockCombinations1_431
+  - first:
+      213: -2789468938019526292
+    second: Cave - RockCombinations1_432
+  - first:
+      213: -1515541208400723104
+    second: Cave - RockCombinations1_433
+  - first:
+      213: 149228310285296958
+    second: Cave - RockCombinations1_434
+  - first:
+      213: 5275012358870587604
+    second: Cave - RockCombinations1_435
+  - first:
+      213: -4975359684621374669
+    second: Cave - RockCombinations1_436
+  - first:
+      213: 1673671468765714390
+    second: Cave - RockCombinations1_437
+  - first:
+      213: 8457469607361291415
+    second: Cave - RockCombinations1_438
+  - first:
+      213: 8226093683808977702
+    second: Cave - RockCombinations1_439
+  - first:
+      213: -8735889865289327865
+    second: Cave - RockCombinations1_440
+  - first:
+      213: -4656467037989588488
+    second: Cave - RockCombinations1_441
+  - first:
+      213: 9121469980446319409
+    second: Cave - RockCombinations1_442
+  - first:
+      213: -5708899740778101471
+    second: Cave - RockCombinations1_443
+  - first:
+      213: -1283134936544942492
+    second: Cave - RockCombinations1_444
+  - first:
+      213: 7297727071222945508
+    second: Cave - RockCombinations1_445
+  - first:
+      213: -3320720323726981084
+    second: Cave - RockCombinations1_446
+  - first:
+      213: -5932679436541036427
+    second: Cave - RockCombinations1_447
+  - first:
+      213: 7371261210806335685
+    second: Cave - RockCombinations1_448
+  - first:
+      213: 3788223606356014353
+    second: Cave - RockCombinations1_449
+  - first:
+      213: -3182387938568986834
+    second: Cave - RockCombinations1_450
+  - first:
+      213: -1882030235444133977
+    second: Cave - RockCombinations1_451
+  - first:
+      213: 1934060591872517624
+    second: Cave - RockCombinations1_452
+  - first:
+      213: -576516113077437096
+    second: Cave - RockCombinations1_453
+  - first:
+      213: -5439593521892399086
+    second: Cave - RockCombinations1_454
+  - first:
+      213: 6232128390178083391
+    second: Cave - RockCombinations1_455
+  - first:
+      213: 8618034567170179956
+    second: Cave - RockCombinations1_456
+  - first:
+      213: -7966411426103873888
+    second: Cave - RockCombinations1_457
+  - first:
+      213: 3942556965300371330
+    second: Cave - RockCombinations1_458
+  - first:
+      213: 3122535117270989332
+    second: Cave - RockCombinations1_459
+  - first:
+      213: -3793538433636096841
+    second: Cave - RockCombinations1_460
+  - first:
+      213: -800713950135945037
+    second: Cave - RockCombinations1_461
+  - first:
+      213: 1941340689497122313
+    second: Cave - RockCombinations1_462
+  - first:
+      213: -660759044047260337
+    second: Cave - RockCombinations1_463
+  - first:
+      213: -2898234118483887824
+    second: Cave - RockCombinations1_464
+  - first:
+      213: 1095443279064202604
+    second: Cave - RockCombinations1_465
+  - first:
+      213: -5523515638681785993
+    second: Cave - RockCombinations1_466
+  - first:
+      213: -3036702729601939045
+    second: Cave - RockCombinations1_467
+  - first:
+      213: 2414819080611536987
+    second: Cave - RockCombinations1_468
+  - first:
+      213: -8194558531442487459
+    second: Cave - RockCombinations1_469
+  - first:
+      213: 6884614576988196610
+    second: Cave - RockCombinations1_470
+  - first:
+      213: -8690584296484829323
+    second: Cave - RockCombinations1_471
+  - first:
+      213: 4113300050210365700
+    second: Cave - RockCombinations1_472
+  - first:
+      213: -5454142509364085673
+    second: Cave - RockCombinations1_473
+  - first:
+      213: 1101761966614425140
+    second: Cave - RockCombinations1_474
+  - first:
+      213: 7245654301333854955
+    second: Cave - RockCombinations1_475
+  - first:
+      213: 6361321939900808740
+    second: Cave - RockCombinations1_476
+  - first:
+      213: -569793445381299408
+    second: Cave - RockCombinations1_477
+  - first:
+      213: -8924877025596661430
+    second: Cave - RockCombinations1_478
+  - first:
+      213: -8879578826794759352
+    second: Cave - RockCombinations1_479
+  - first:
+      213: 3030758470455458393
+    second: Cave - RockCombinations1_480
+  - first:
+      213: -4819561936285831690
+    second: Cave - RockCombinations1_481
+  - first:
+      213: 2760818719271385428
+    second: Cave - RockCombinations1_482
+  - first:
+      213: -6092946165085510190
+    second: Cave - RockCombinations1_483
+  - first:
+      213: 8530345724821660813
+    second: Cave - RockCombinations1_484
+  - first:
+      213: -5130234475100089539
+    second: Cave - RockCombinations1_485
+  - first:
+      213: 3411633755545960620
+    second: Cave - RockCombinations1_486
+  - first:
+      213: 6875488980238559640
+    second: Cave - RockCombinations1_487
+  - first:
+      213: -6091146274261372428
+    second: Cave - RockCombinations1_488
+  - first:
+      213: 3956137595430108951
+    second: Cave - RockCombinations1_489
+  - first:
+      213: 1593784737464438674
+    second: Cave - RockCombinations1_490
+  - first:
+      213: -2717425863528570560
+    second: Cave - RockCombinations1_491
+  - first:
+      213: -3254307911187412457
+    second: Cave - RockCombinations1_492
+  - first:
+      213: -5750621371201720819
+    second: Cave - RockCombinations1_493
+  - first:
+      213: 2209837723042578456
+    second: Cave - RockCombinations1_494
+  - first:
+      213: 6633744057000821382
+    second: Cave - RockCombinations1_495
+  - first:
+      213: 8836705150018550523
+    second: Cave - RockCombinations1_496
+  - first:
+      213: 5731444108462564562
+    second: Cave - RockCombinations1_497
+  - first:
+      213: 8447562599694855360
+    second: Cave - RockCombinations1_498
+  - first:
+      213: -6986187408682732101
+    second: Cave - RockCombinations1_499
+  - first:
+      213: -5477540926367398294
+    second: Cave - RockCombinations1_500
+  - first:
+      213: 6303330670800442711
+    second: Cave - RockCombinations1_501
+  - first:
+      213: -4250292162418869926
+    second: Cave - RockCombinations1_502
+  - first:
+      213: -3580854969806684454
+    second: Cave - RockCombinations1_503
+  - first:
+      213: 8968991754825042239
+    second: Cave - RockCombinations1_504
+  - first:
+      213: -979864525753809454
+    second: Cave - RockCombinations1_505
+  - first:
+      213: 4340648290984935681
+    second: Cave - RockCombinations1_506
+  - first:
+      213: 4261257963509024297
+    second: Cave - RockCombinations1_507
+  - first:
+      213: -401418219747813656
+    second: Cave - RockCombinations1_508
+  - first:
+      213: 2439881769469302011
+    second: Cave - RockCombinations1_509
+  - first:
+      213: -1246486305581185282
+    second: Cave - RockCombinations1_510
+  - first:
+      213: 4978903348131735487
+    second: Cave - RockCombinations1_511
+  - first:
+      213: 5017791663047126502
+    second: Cave - RockCombinations1_512
+  - first:
+      213: 3496457186953047527
+    second: Cave - RockCombinations1_513
+  - first:
+      213: 6833893972159336307
+    second: Cave - RockCombinations1_514
+  - first:
+      213: -2250703316170776288
+    second: Cave - RockCombinations1_515
+  - first:
+      213: -8860002712227283067
+    second: Cave - RockCombinations1_516
+  - first:
+      213: -7435367203357149563
+    second: Cave - RockCombinations1_517
+  - first:
+      213: -6064037875172866989
+    second: Cave - RockCombinations1_518
+  - first:
+      213: 1378818197114790989
+    second: Cave - RockCombinations1_519
+  - first:
+      213: 7959704295267141190
+    second: Cave - RockCombinations1_520
+  - first:
+      213: -8765074827496289962
+    second: Cave - RockCombinations1_521
+  - first:
+      213: 1030698355480615197
+    second: Cave - RockCombinations1_522
+  - first:
+      213: -8724849339353088293
+    second: Cave - RockCombinations1_523
+  - first:
+      213: 2110452730326990636
+    second: Cave - RockCombinations1_524
+  - first:
+      213: -1416493303704804385
+    second: Cave - RockCombinations1_525
+  - first:
+      213: 5079446962950935173
+    second: Cave - RockCombinations1_526
+  - first:
+      213: -5533297714374891641
+    second: Cave - RockCombinations1_527
+  - first:
+      213: -8885212327223264123
+    second: Cave - RockCombinations1_528
+  - first:
+      213: 7124120259771497261
+    second: Cave - RockCombinations1_529
+  - first:
+      213: -2352980656618877589
+    second: Cave - RockCombinations1_530
+  - first:
+      213: -7356998924293950320
+    second: Cave - RockCombinations1_531
+  - first:
+      213: -6033665914029696838
+    second: Cave - RockCombinations1_532
+  - first:
+      213: 7213552291721465307
+    second: Cave - RockCombinations1_533
+  - first:
+      213: 121521494231137189
+    second: Cave - RockCombinations1_534
+  - first:
+      213: -4028308097126807708
+    second: Cave - RockCombinations1_535
+  - first:
+      213: -1866406677389944229
+    second: Cave - RockCombinations1_536
+  - first:
+      213: -5251896968490575535
+    second: Cave - RockCombinations1_537
+  - first:
+      213: 8585635483427172974
+    second: Cave - RockCombinations1_538
+  - first:
+      213: -7013199859485683286
+    second: Cave - RockCombinations1_539
+  - first:
+      213: -1855026032604376879
+    second: Cave - RockCombinations1_540
+  - first:
+      213: 1294169070996319268
+    second: Cave - RockCombinations1_541
+  - first:
+      213: -3589507471496051731
+    second: Cave - RockCombinations1_542
+  - first:
+      213: -553591491731286040
+    second: Cave - RockCombinations1_543
+  - first:
+      213: -408272450125735830
+    second: Cave - RockCombinations1_544
+  - first:
+      213: 1310881634675635996
+    second: Cave - RockCombinations1_545
+  - first:
+      213: 2209596336613981416
+    second: Cave - RockCombinations1_546
+  - first:
+      213: 2004919519789657107
+    second: Cave - RockCombinations1_547
+  - first:
+      213: 5909100831856069058
+    second: Cave - RockCombinations1_548
+  - first:
+      213: 8581575068743137715
+    second: Cave - RockCombinations1_549
+  - first:
+      213: -1740158548085890208
+    second: Cave - RockCombinations1_550
+  - first:
+      213: 6094025321388542465
+    second: Cave - RockCombinations1_551
+  - first:
+      213: 2322248419201599876
+    second: Cave - RockCombinations1_552
+  - first:
+      213: -870992429835879958
+    second: Cave - RockCombinations1_553
+  - first:
+      213: 7133294820633949763
+    second: Cave - RockCombinations1_554
+  - first:
+      213: 4800794726923150157
+    second: Cave - RockCombinations1_555
+  - first:
+      213: 8736510335235994580
+    second: Cave - RockCombinations1_556
+  - first:
+      213: -7347015659123050152
+    second: Cave - RockCombinations1_557
+  - first:
+      213: -1908074782890488260
+    second: Cave - RockCombinations1_558
+  - first:
+      213: -8499206984210942037
+    second: Cave - RockCombinations1_559
+  - first:
+      213: 8142484185976720731
+    second: Cave - RockCombinations1_560
+  - first:
+      213: -7690940575040389965
+    second: Cave - RockCombinations1_561
+  - first:
+      213: -438480463158265514
+    second: Cave - RockCombinations1_562
+  - first:
+      213: 2831230834782662248
+    second: Cave - RockCombinations1_563
+  - first:
+      213: -1205417816375045015
+    second: Cave - RockCombinations1_564
+  - first:
+      213: 5216581226222753685
+    second: Cave - RockCombinations1_565
+  - first:
+      213: -5993171806164710235
+    second: Cave - RockCombinations1_566
+  - first:
+      213: 8567351292957905334
+    second: Cave - RockCombinations1_567
+  - first:
+      213: 1468568040698280008
+    second: Cave - RockCombinations1_568
+  - first:
+      213: -1832350245706442940
+    second: Cave - RockCombinations1_569
+  - first:
+      213: 4292437376885649649
+    second: Cave - RockCombinations1_570
+  - first:
+      213: 7788126422429328144
+    second: Cave - RockCombinations1_571
+  - first:
+      213: -4725902166170080686
+    second: Cave - RockCombinations1_572
+  - first:
+      213: -2414305557692286827
+    second: Cave - RockCombinations1_573
+  - first:
+      213: -450020793640620009
+    second: Cave - RockCombinations1_574
+  - first:
+      213: -7668949554151581908
+    second: Cave - RockCombinations1_575
+  - first:
+      213: -2487215738946510677
+    second: Cave - RockCombinations1_576
+  - first:
+      213: -2384149183540285665
+    second: Cave - RockCombinations1_577
+  - first:
+      213: 3156234186484803418
+    second: Cave - RockCombinations1_578
+  - first:
+      213: -1461205569882549345
+    second: Cave - RockCombinations1_579
+  - first:
+      213: -7753641916786693932
+    second: Cave - RockCombinations1_580
+  - first:
+      213: 1977391431617242862
+    second: Cave - RockCombinations1_581
+  - first:
+      213: 8557273896832788210
+    second: Cave - RockCombinations1_582
+  - first:
+      213: -5307004798508589790
+    second: Cave - RockCombinations1_583
+  - first:
+      213: 2404720733578381359
+    second: Cave - RockCombinations1_584
+  - first:
+      213: 9098860206743442120
+    second: Cave - RockCombinations1_585
+  - first:
+      213: -7486296133844458497
+    second: Cave - RockCombinations1_586
+  - first:
+      213: 4572854724372370734
+    second: Cave - RockCombinations1_587
+  - first:
+      213: -3662272902205334243
+    second: Cave - RockCombinations1_588
+  - first:
+      213: -4293795555604403716
+    second: Cave - RockCombinations1_589
+  - first:
+      213: -5021641074045793146
+    second: Cave - RockCombinations1_590
+  - first:
+      213: -5213746512941160830
+    second: Cave - RockCombinations1_591
+  - first:
+      213: 1115737176640704168
+    second: Cave - RockCombinations1_592
+  - first:
+      213: -2798951721427595615
+    second: Cave - RockCombinations1_593
+  - first:
+      213: -7518439504954987232
+    second: Cave - RockCombinations1_594
+  - first:
+      213: 5178280894690064550
+    second: Cave - RockCombinations1_595
+  - first:
+      213: 2962502834600559727
+    second: Cave - RockCombinations1_596
+  - first:
+      213: -8242941977720474024
+    second: Cave - RockCombinations1_597
+  - first:
+      213: -7747957353677653285
+    second: Cave - RockCombinations1_598
+  - first:
+      213: -3754578272427151051
+    second: Cave - RockCombinations1_599
+  - first:
+      213: 4243352649819648825
+    second: Cave - RockCombinations1_600
+  - first:
+      213: 2779326904528709117
+    second: Cave - RockCombinations1_601
+  - first:
+      213: -4690547037498478832
+    second: Cave - RockCombinations1_602
+  - first:
+      213: 1091348303131679881
+    second: Cave - RockCombinations1_603
+  - first:
+      213: 2247213414250479580
+    second: Cave - RockCombinations1_604
+  - first:
+      213: -8502270174448597401
+    second: Cave - RockCombinations1_605
+  - first:
+      213: 2126054950354743369
+    second: Cave - RockCombinations1_606
+  - first:
+      213: -8712586894436876544
+    second: Cave - RockCombinations1_607
+  - first:
+      213: 3270427259464373421
+    second: Cave - RockCombinations1_608
+  - first:
+      213: 4827536026133202
+    second: Cave - RockCombinations1_609
+  - first:
+      213: -2026057949072992522
+    second: Cave - RockCombinations1_610
+  - first:
+      213: -5361659072441500976
+    second: Cave - RockCombinations1_611
+  - first:
+      213: 7448035709576567072
+    second: Cave - RockCombinations1_612
+  - first:
+      213: 6785236894990319734
+    second: Cave - RockCombinations1_613
+  - first:
+      213: 3808810889272832815
+    second: Cave - RockCombinations1_614
+  - first:
+      213: 486687741266693640
+    second: Cave - RockCombinations1_615
+  - first:
+      213: 335747675646537868
+    second: Cave - RockCombinations1_616
+  - first:
+      213: -4574295423899676197
+    second: Cave - RockCombinations1_617
+  - first:
+      213: 9196761454541337908
+    second: Cave - RockCombinations1_618
+  - first:
+      213: -8882029734993864981
+    second: Cave - RockCombinations1_619
+  - first:
+      213: 553361800641505414
+    second: Cave - RockCombinations1_620
+  - first:
+      213: 6024119142791274547
+    second: Cave - RockCombinations1_621
+  - first:
+      213: -5964891847567702670
+    second: Cave - RockCombinations1_622
+  - first:
+      213: 5694725242209995851
+    second: Cave - RockCombinations1_623
+  - first:
+      213: 5160668910184535280
+    second: Cave - RockCombinations1_624
+  - first:
+      213: -8766655955204522480
+    second: Cave - RockCombinations1_625
+  - first:
+      213: 7953011009736066037
+    second: Cave - RockCombinations1_626
+  - first:
+      213: -320144932490338370
+    second: Cave - RockCombinations1_627
+  - first:
+      213: 2696833460637989340
+    second: Cave - RockCombinations1_628
+  - first:
+      213: 376329263599163357
+    second: Cave - RockCombinations1_629
+  - first:
+      213: 4996800847566528783
+    second: Cave - RockCombinations1_630
+  - first:
+      213: -2020680707594505100
+    second: Cave - RockCombinations1_631
+  - first:
+      213: -2086514311808364301
+    second: Cave - RockCombinations1_632
+  - first:
+      213: -142219256979582832
+    second: Cave - RockCombinations1_633
+  - first:
+      213: 3237899584129342212
+    second: Cave - RockCombinations1_634
+  - first:
+      213: -8205286690405796248
+    second: Cave - RockCombinations1_635
+  - first:
+      213: 1039868025431908822
+    second: Cave - RockCombinations1_636
+  - first:
+      213: -2859911389523037346
+    second: Cave - RockCombinations1_637
+  - first:
+      213: 331719613080777269
+    second: Cave - RockCombinations1_638
+  - first:
+      213: 2515004877501801051
+    second: Cave - RockCombinations1_639
+  - first:
+      213: -7516075172425134936
+    second: Cave - RockCombinations1_640
+  - first:
+      213: 4280587980478836951
+    second: Cave - RockCombinations1_641
+  - first:
+      213: -87511382602693688
+    second: Cave - RockCombinations1_642
+  - first:
+      213: 3181544392994649052
+    second: Cave - RockCombinations1_643
+  - first:
+      213: -5704537582048611361
+    second: Cave - RockCombinations1_644
+  - first:
+      213: 1607988185346272911
+    second: Cave - RockCombinations1_645
+  - first:
+      213: 4647481310571106097
+    second: Cave - RockCombinations1_646
+  - first:
+      213: -2848930908697929145
+    second: Cave - RockCombinations1_647
+  - first:
+      213: 8719278464174238669
+    second: Cave - RockCombinations1_648
+  - first:
+      213: 6568144807384748956
+    second: Cave - RockCombinations1_649
+  - first:
+      213: 5729837199364334401
+    second: Cave - RockCombinations1_650
+  - first:
+      213: -7894971546618644295
+    second: Cave - RockCombinations1_651
+  - first:
+      213: -963051119787324391
+    second: Cave - RockCombinations1_652
+  - first:
+      213: -5969521551115482256
+    second: Cave - RockCombinations1_653
+  - first:
+      213: -5114351932557070872
+    second: Cave - RockCombinations1_654
+  - first:
+      213: -3600331843765051054
+    second: Cave - RockCombinations1_655
+  - first:
+      213: -50140490659801906
+    second: Cave - RockCombinations1_656
+  - first:
+      213: -3327139356523984598
+    second: Cave - RockCombinations1_657
+  - first:
+      213: -5872911115618385256
+    second: Cave - RockCombinations1_658
+  - first:
+      213: 3899198108029468512
+    second: Cave - RockCombinations1_659
+  - first:
+      213: 2008266451434080643
+    second: Cave - RockCombinations1_660
+  - first:
+      213: 1491159753623402482
+    second: Cave - RockCombinations1_661
+  - first:
+      213: -5836542396259538588
+    second: Cave - RockCombinations1_662
+  - first:
+      213: -4678708147755008918
+    second: Cave - RockCombinations1_663
+  - first:
+      213: 1731612435926999536
+    second: Cave - RockCombinations1_664
+  - first:
+      213: 7002166213877458282
+    second: Cave - RockCombinations1_665
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1635
+        width: 575
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee1e3725a56ecc0800000000000000
+      internalID: -3682156335150797254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1691
+        width: 311
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bffc452fdc2aeec0800000000000000
+      internalID: -3536965220430970956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_2
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1609
+        width: 470
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca20df741e631b0800000000000000
+      internalID: -5677102580950192972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_3
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1717
+        width: 390
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41db879c5e26443c0800000000000000
+      internalID: -4376264198830113516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1599
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084b171815396e020800000000000000
+      internalID: 2370744232130491520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_5
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1409
+        width: 294
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8265320b3c3143bb0800000000000000
+      internalID: -4957315558633417176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1193
+        width: 434
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a1df6d1c426410800000000000000
+      internalID: 1468820117789975543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1333
+        width: 428
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed47d545e012b060800000000000000
+      internalID: 6967650150400871907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_8
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1332
+        width: 241
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0dcf390439d090800000000000000
+      internalID: -8009313247971963356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_9
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1380
+        width: 248
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ec79b1e6ee7fa00800000000000000
+      internalID: 790362416303558209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 875
+        width: 574
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6743d9ecf175d9810800000000000000
+      internalID: 1773669622375855222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 856
+        width: 573
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553d972ec35a0b030800000000000000
+      internalID: 3508485790637871957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_12
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 927
+        width: 694
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d67a56824c87230800000000000000
+      internalID: 3636872376884882792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 217
+        width: 575
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea5d42277442e70800000000000000
+      internalID: 9089468503510331075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 93
+        width: 421
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1077f5fe87e6d0800000000000000
+      internalID: -2961241042903359879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_15
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 154
+        width: 364
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20c81270cf4edc0800000000000000
+      internalID: -3610483893686500673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - RockCombinations1_16
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 119
+        width: 398
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2544982cf3979c070800000000000000
+      internalID: 8127160317320447058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

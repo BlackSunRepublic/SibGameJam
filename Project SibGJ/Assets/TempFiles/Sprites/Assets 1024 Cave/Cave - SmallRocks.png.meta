@@ -1,0 +1,3084 @@
+fileFormatVersion: 2
+guid: 56c77a52162490f4e9e59994597d3a83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7755263233434312463
+    second: Cave - SmallRocks_0
+  - first:
+      213: -1657484560502174974
+    second: Cave - SmallRocks_1
+  - first:
+      213: -2493821621276057831
+    second: Cave - SmallRocks_2
+  - first:
+      213: -4494004569107490680
+    second: Cave - SmallRocks_3
+  - first:
+      213: -5975487952307293109
+    second: Cave - SmallRocks_4
+  - first:
+      213: 6575958154038825118
+    second: Cave - SmallRocks_5
+  - first:
+      213: -7860321058049874662
+    second: Cave - SmallRocks_6
+  - first:
+      213: 8417261638804700597
+    second: Cave - SmallRocks_7
+  - first:
+      213: -5111709473936583927
+    second: Cave - SmallRocks_8
+  - first:
+      213: -6393851943515811214
+    second: Cave - SmallRocks_9
+  - first:
+      213: 4001769570858825416
+    second: Cave - SmallRocks_10
+  - first:
+      213: 6619780215846458576
+    second: Cave - SmallRocks_11
+  - first:
+      213: -6780921859273498462
+    second: Cave - SmallRocks_12
+  - first:
+      213: 3972064782094023837
+    second: Cave - SmallRocks_13
+  - first:
+      213: -435026583393288548
+    second: Cave - SmallRocks_14
+  - first:
+      213: 6908018799353086255
+    second: Cave - SmallRocks_15
+  - first:
+      213: 219891711605049466
+    second: Cave - SmallRocks_16
+  - first:
+      213: 7596291645957389264
+    second: Cave - SmallRocks_17
+  - first:
+      213: -6556686012822432966
+    second: Cave - SmallRocks_18
+  - first:
+      213: 8109085204081165132
+    second: Cave - SmallRocks_19
+  - first:
+      213: -4216743843403275318
+    second: Cave - SmallRocks_20
+  - first:
+      213: 6103445529309287433
+    second: Cave - SmallRocks_21
+  - first:
+      213: -1320595519569820478
+    second: Cave - SmallRocks_22
+  - first:
+      213: 8541332004995060163
+    second: Cave - SmallRocks_23
+  - first:
+      213: 8500976528667564117
+    second: Cave - SmallRocks_24
+  - first:
+      213: -6862066918451617320
+    second: Cave - SmallRocks_25
+  - first:
+      213: 1517956474383640410
+    second: Cave - SmallRocks_26
+  - first:
+      213: -3200442162793432106
+    second: Cave - SmallRocks_27
+  - first:
+      213: -1439979144534480287
+    second: Cave - SmallRocks_28
+  - first:
+      213: -601573385548399128
+    second: Cave - SmallRocks_29
+  - first:
+      213: -4352259581043777614
+    second: Cave - SmallRocks_30
+  - first:
+      213: -5963559693477244749
+    second: Cave - SmallRocks_31
+  - first:
+      213: -3016530619638483621
+    second: Cave - SmallRocks_32
+  - first:
+      213: -7962708039751616428
+    second: Cave - SmallRocks_33
+  - first:
+      213: -4801642061339153062
+    second: Cave - SmallRocks_34
+  - first:
+      213: 645577906521585614
+    second: Cave - SmallRocks_35
+  - first:
+      213: -6013813440602047623
+    second: Cave - SmallRocks_36
+  - first:
+      213: -2979857049886536812
+    second: Cave - SmallRocks_37
+  - first:
+      213: 3469940636223747940
+    second: Cave - SmallRocks_38
+  - first:
+      213: 2070977477592778985
+    second: Cave - SmallRocks_39
+  - first:
+      213: 8780775113214877956
+    second: Cave - SmallRocks_40
+  - first:
+      213: -2177050145984206322
+    second: Cave - SmallRocks_41
+  - first:
+      213: 4459580669314635480
+    second: Cave - SmallRocks_42
+  - first:
+      213: -1392051703132286171
+    second: Cave - SmallRocks_43
+  - first:
+      213: -7919433982518958409
+    second: Cave - SmallRocks_44
+  - first:
+      213: 8844627024382774960
+    second: Cave - SmallRocks_45
+  - first:
+      213: 4859812433355956405
+    second: Cave - SmallRocks_46
+  - first:
+      213: -8775766723635762730
+    second: Cave - SmallRocks_47
+  - first:
+      213: 3736125160419429278
+    second: Cave - SmallRocks_48
+  - first:
+      213: 6629930623760537600
+    second: Cave - SmallRocks_49
+  - first:
+      213: -3750912374219036735
+    second: Cave - SmallRocks_50
+  - first:
+      213: 3982682668947366419
+    second: Cave - SmallRocks_51
+  - first:
+      213: -8220700153430943474
+    second: Cave - SmallRocks_52
+  - first:
+      213: -8825442776936178527
+    second: Cave - SmallRocks_53
+  - first:
+      213: 1165546435818339966
+    second: Cave - SmallRocks_54
+  - first:
+      213: -2557090327351816351
+    second: Cave - SmallRocks_55
+  - first:
+      213: 923419084799710318
+    second: Cave - SmallRocks_56
+  - first:
+      213: -3785686124571306090
+    second: Cave - SmallRocks_57
+  - first:
+      213: 335899008796081916
+    second: Cave - SmallRocks_58
+  - first:
+      213: 1165289333755091783
+    second: Cave - SmallRocks_59
+  - first:
+      213: -4414077080633385226
+    second: Cave - SmallRocks_60
+  - first:
+      213: 4142049814057445038
+    second: Cave - SmallRocks_61
+  - first:
+      213: 2832200131307548518
+    second: Cave - SmallRocks_62
+  - first:
+      213: -7050524108999699844
+    second: Cave - SmallRocks_63
+  - first:
+      213: -4798667160329303215
+    second: Cave - SmallRocks_64
+  - first:
+      213: -2474094296855833158
+    second: Cave - SmallRocks_65
+  - first:
+      213: -8004246384228847437
+    second: Cave - SmallRocks_66
+  - first:
+      213: 8933352548742525770
+    second: Cave - SmallRocks_67
+  - first:
+      213: -6226178753632458906
+    second: Cave - SmallRocks_68
+  - first:
+      213: 5475393099291934836
+    second: Cave - SmallRocks_69
+  - first:
+      213: 5798626693478737585
+    second: Cave - SmallRocks_70
+  - first:
+      213: 2862171441054327455
+    second: Cave - SmallRocks_71
+  - first:
+      213: -4403843822984084480
+    second: Cave - SmallRocks_72
+  - first:
+      213: 2201549676413799094
+    second: Cave - SmallRocks_73
+  - first:
+      213: -2534803712423337678
+    second: Cave - SmallRocks_74
+  - first:
+      213: -3773423959047768883
+    second: Cave - SmallRocks_75
+  - first:
+      213: 1385300431212436194
+    second: Cave - SmallRocks_76
+  - first:
+      213: -926374686007907097
+    second: Cave - SmallRocks_77
+  - first:
+      213: 5119515275514350781
+    second: Cave - SmallRocks_78
+  - first:
+      213: 4452472454412587182
+    second: Cave - SmallRocks_79
+  - first:
+      213: -5494150679484111572
+    second: Cave - SmallRocks_80
+  - first:
+      213: -3825279536062442137
+    second: Cave - SmallRocks_81
+  - first:
+      213: 7843808574032958751
+    second: Cave - SmallRocks_82
+  - first:
+      213: -4029930290995365454
+    second: Cave - SmallRocks_83
+  - first:
+      213: -4330593112270011523
+    second: Cave - SmallRocks_84
+  - first:
+      213: -1665240686111114501
+    second: Cave - SmallRocks_85
+  - first:
+      213: 6845493692390997610
+    second: Cave - SmallRocks_86
+  - first:
+      213: 7246531821856541235
+    second: Cave - SmallRocks_87
+  - first:
+      213: -225302501455950196
+    second: Cave - SmallRocks_88
+  - first:
+      213: 7326003001566519949
+    second: Cave - SmallRocks_89
+  - first:
+      213: -2353108405696177974
+    second: Cave - SmallRocks_90
+  - first:
+      213: 8843277808636212697
+    second: Cave - SmallRocks_91
+  - first:
+      213: 646705560694680670
+    second: Cave - SmallRocks_92
+  - first:
+      213: -7118323049192290170
+    second: Cave - SmallRocks_93
+  - first:
+      213: 5046876402680429206
+    second: Cave - SmallRocks_94
+  - first:
+      213: -4557392168443793762
+    second: Cave - SmallRocks_95
+  - first:
+      213: 7825328811812299045
+    second: Cave - SmallRocks_96
+  - first:
+      213: -7276554312172037007
+    second: Cave - SmallRocks_97
+  - first:
+      213: 365569960997317446
+    second: Cave - SmallRocks_98
+  - first:
+      213: -3011764397409541770
+    second: Cave - SmallRocks_99
+  - first:
+      213: -5307956641347093054
+    second: Cave - SmallRocks_100
+  - first:
+      213: 4742750378878251733
+    second: Cave - SmallRocks_101
+  - first:
+      213: 4063942883936049591
+    second: Cave - SmallRocks_102
+  - first:
+      213: -8911282707822640103
+    second: Cave - SmallRocks_103
+  - first:
+      213: 1857692158222449856
+    second: Cave - SmallRocks_104
+  - first:
+      213: 7564641486232347279
+    second: Cave - SmallRocks_105
+  - first:
+      213: 3518842578461496408
+    second: Cave - SmallRocks_106
+  - first:
+      213: -8550296062811732791
+    second: Cave - SmallRocks_107
+  - first:
+      213: 7942039484627117512
+    second: Cave - SmallRocks_108
+  - first:
+      213: -2485602811434850693
+    second: Cave - SmallRocks_109
+  - first:
+      213: -4876127786694952259
+    second: Cave - SmallRocks_110
+  - first:
+      213: -6961862814345119571
+    second: Cave - SmallRocks_111
+  - first:
+      213: 2313072214154501418
+    second: Cave - SmallRocks_112
+  - first:
+      213: -838371980581027304
+    second: Cave - SmallRocks_113
+  - first:
+      213: 6488968210295340
+    second: Cave - SmallRocks_114
+  - first:
+      213: 3664698789572412015
+    second: Cave - SmallRocks_115
+  - first:
+      213: -1845073646843083702
+    second: Cave - SmallRocks_116
+  - first:
+      213: 3761566748931847609
+    second: Cave - SmallRocks_117
+  - first:
+      213: 7079898269645586337
+    second: Cave - SmallRocks_118
+  - first:
+      213: 3479058453394847328
+    second: Cave - SmallRocks_119
+  - first:
+      213: 3255953676178991054
+    second: Cave - SmallRocks_120
+  - first:
+      213: 7861155342781602559
+    second: Cave - SmallRocks_121
+  - first:
+      213: 5122586049575449613
+    second: Cave - SmallRocks_122
+  - first:
+      213: -1492600793516031623
+    second: Cave - SmallRocks_123
+  - first:
+      213: -2722262570465329074
+    second: Cave - SmallRocks_124
+  - first:
+      213: -8112345459773125533
+    second: Cave - SmallRocks_125
+  - first:
+      213: -2644489088088110611
+    second: Cave - SmallRocks_126
+  - first:
+      213: -8355719848714288347
+    second: Cave - SmallRocks_127
+  - first:
+      213: -2155498718601680498
+    second: Cave - SmallRocks_128
+  - first:
+      213: 501532059379888502
+    second: Cave - SmallRocks_129
+  - first:
+      213: -6590840761835102042
+    second: Cave - SmallRocks_130
+  - first:
+      213: 8883341642197252334
+    second: Cave - SmallRocks_131
+  - first:
+      213: -3483629873529991015
+    second: Cave - SmallRocks_132
+  - first:
+      213: 4517817261822992338
+    second: Cave - SmallRocks_133
+  - first:
+      213: -6750293295352992117
+    second: Cave - SmallRocks_134
+  - first:
+      213: 1414444308935198567
+    second: Cave - SmallRocks_135
+  - first:
+      213: 550591956526990972
+    second: Cave - SmallRocks_136
+  - first:
+      213: 6919262002980701349
+    second: Cave - SmallRocks_137
+  - first:
+      213: -8092468274988435218
+    second: Cave - SmallRocks_138
+  - first:
+      213: -5706006207525759998
+    second: Cave - SmallRocks_139
+  - first:
+      213: -4676121122513397654
+    second: Cave - SmallRocks_140
+  - first:
+      213: -8536881198177381332
+    second: Cave - SmallRocks_141
+  - first:
+      213: -5188745043449793244
+    second: Cave - SmallRocks_142
+  - first:
+      213: -74347452786462710
+    second: Cave - SmallRocks_143
+  - first:
+      213: 4619806339630049487
+    second: Cave - SmallRocks_144
+  - first:
+      213: -2197200832652484086
+    second: Cave - SmallRocks_145
+  - first:
+      213: -4717485467433297603
+    second: Cave - SmallRocks_146
+  - first:
+      213: -4928952504261274106
+    second: Cave - SmallRocks_147
+  - first:
+      213: 8503439846462838272
+    second: Cave - SmallRocks_148
+  - first:
+      213: 8325837667719342975
+    second: Cave - SmallRocks_149
+  - first:
+      213: 7423746870520871985
+    second: Cave - SmallRocks_150
+  - first:
+      213: -446607619966777680
+    second: Cave - SmallRocks_151
+  - first:
+      213: -4040602820838214010
+    second: Cave - SmallRocks_152
+  - first:
+      213: -8153155050184841719
+    second: Cave - SmallRocks_153
+  - first:
+      213: 5119351631059616364
+    second: Cave - SmallRocks_154
+  - first:
+      213: 4017324338286795166
+    second: Cave - SmallRocks_155
+  - first:
+      213: -430447259352499748
+    second: Cave - SmallRocks_156
+  - first:
+      213: -5455633989001892938
+    second: Cave - SmallRocks_157
+  - first:
+      213: 4474205154295414505
+    second: Cave - SmallRocks_158
+  - first:
+      213: -5516733176494459830
+    second: Cave - SmallRocks_159
+  - first:
+      213: -7943647207187981011
+    second: Cave - SmallRocks_160
+  - first:
+      213: 2327970983510123025
+    second: Cave - SmallRocks_161
+  - first:
+      213: -5689780573624733581
+    second: Cave - SmallRocks_162
+  - first:
+      213: 7394279113333042991
+    second: Cave - SmallRocks_163
+  - first:
+      213: 2716727002288494259
+    second: Cave - SmallRocks_164
+  - first:
+      213: -8135171216674553496
+    second: Cave - SmallRocks_165
+  - first:
+      213: 8787113926994101003
+    second: Cave - SmallRocks_166
+  - first:
+      213: 2401032666622902890
+    second: Cave - SmallRocks_167
+  - first:
+      213: -3512462672493111087
+    second: Cave - SmallRocks_168
+  - first:
+      213: 2699909390732344859
+    second: Cave - SmallRocks_169
+  - first:
+      213: 2650588389428010890
+    second: Cave - SmallRocks_170
+  - first:
+      213: 1334497968576804547
+    second: Cave - SmallRocks_171
+  - first:
+      213: -8846414890898060178
+    second: Cave - SmallRocks_172
+  - first:
+      213: -9052583471229347306
+    second: Cave - SmallRocks_173
+  - first:
+      213: -8875603145355776170
+    second: Cave - SmallRocks_174
+  - first:
+      213: -3626493047610733379
+    second: Cave - SmallRocks_175
+  - first:
+      213: 1119315327514942049
+    second: Cave - SmallRocks_176
+  - first:
+      213: -9065507690711238633
+    second: Cave - SmallRocks_177
+  - first:
+      213: 452324567837882995
+    second: Cave - SmallRocks_178
+  - first:
+      213: -8740327555324059392
+    second: Cave - SmallRocks_179
+  - first:
+      213: -1645775816205573364
+    second: Cave - SmallRocks_180
+  - first:
+      213: -3271993245416040995
+    second: Cave - SmallRocks_181
+  - first:
+      213: 3597612795828427134
+    second: Cave - SmallRocks_182
+  - first:
+      213: -8078075665416272409
+    second: Cave - SmallRocks_183
+  - first:
+      213: 1569495850659852555
+    second: Cave - SmallRocks_184
+  - first:
+      213: 29155418539935302
+    second: Cave - SmallRocks_185
+  - first:
+      213: 2289682308894350184
+    second: Cave - SmallRocks_186
+  - first:
+      213: -2436990857392246387
+    second: Cave - SmallRocks_187
+  - first:
+      213: 7644700401495252150
+    second: Cave - SmallRocks_188
+  - first:
+      213: 1682748643914679014
+    second: Cave - SmallRocks_189
+  - first:
+      213: -556566382584790761
+    second: Cave - SmallRocks_190
+  - first:
+      213: 7925036036967813192
+    second: Cave - SmallRocks_191
+  - first:
+      213: 9176792279972894009
+    second: Cave - SmallRocks_192
+  - first:
+      213: -3004306061554746879
+    second: Cave - SmallRocks_193
+  - first:
+      213: -5264967006920407445
+    second: Cave - SmallRocks_194
+  - first:
+      213: 48568783240844694
+    second: Cave - SmallRocks_195
+  - first:
+      213: 739805629907762878
+    second: Cave - SmallRocks_196
+  - first:
+      213: 62672125990420254
+    second: Cave - SmallRocks_197
+  - first:
+      213: -18322405576925841
+    second: Cave - SmallRocks_198
+  - first:
+      213: -3000359560669521638
+    second: Cave - SmallRocks_199
+  - first:
+      213: 8222877316993188105
+    second: Cave - SmallRocks_200
+  - first:
+      213: -700390511185436771
+    second: Cave - SmallRocks_201
+  - first:
+      213: 1567819094575990666
+    second: Cave - SmallRocks_202
+  - first:
+      213: -5463134867139396275
+    second: Cave - SmallRocks_203
+  - first:
+      213: 1787581402166826169
+    second: Cave - SmallRocks_204
+  - first:
+      213: 2257305684831063713
+    second: Cave - SmallRocks_205
+  - first:
+      213: -1531872820208999633
+    second: Cave - SmallRocks_206
+  - first:
+      213: -1376202185228911134
+    second: Cave - SmallRocks_207
+  - first:
+      213: -8437701994392517325
+    second: Cave - SmallRocks_208
+  - first:
+      213: -4567032599591470127
+    second: Cave - SmallRocks_209
+  - first:
+      213: 5119226838013940634
+    second: Cave - SmallRocks_210
+  - first:
+      213: -878243804297528616
+    second: Cave - SmallRocks_211
+  - first:
+      213: -4036093503339437146
+    second: Cave - SmallRocks_212
+  - first:
+      213: 7493964433050763514
+    second: Cave - SmallRocks_213
+  - first:
+      213: 629868786636273828
+    second: Cave - SmallRocks_214
+  - first:
+      213: 4247347803699020669
+    second: Cave - SmallRocks_215
+  - first:
+      213: -5081341462859455523
+    second: Cave - SmallRocks_216
+  - first:
+      213: 5746215092272447149
+    second: Cave - SmallRocks_217
+  - first:
+      213: 8692966572990645203
+    second: Cave - SmallRocks_218
+  - first:
+      213: -8568868966299728604
+    second: Cave - SmallRocks_219
+  - first:
+      213: 6651812012597094095
+    second: Cave - SmallRocks_220
+  - first:
+      213: 5113829448540248575
+    second: Cave - SmallRocks_221
+  - first:
+      213: -862425046289451707
+    second: Cave - SmallRocks_222
+  - first:
+      213: -1344525907340047332
+    second: Cave - SmallRocks_223
+  - first:
+      213: -4377298184817078864
+    second: Cave - SmallRocks_224
+  - first:
+      213: -4325778599008434677
+    second: Cave - SmallRocks_225
+  - first:
+      213: -409113042510265215
+    second: Cave - SmallRocks_226
+  - first:
+      213: -3252492060681649070
+    second: Cave - SmallRocks_227
+  - first:
+      213: -5093025220937686479
+    second: Cave - SmallRocks_228
+  - first:
+      213: 2481648758161506071
+    second: Cave - SmallRocks_229
+  - first:
+      213: 8399342846000701108
+    second: Cave - SmallRocks_230
+  - first:
+      213: 2130379374716959108
+    second: Cave - SmallRocks_231
+  - first:
+      213: 5232509868062472288
+    second: Cave - SmallRocks_232
+  - first:
+      213: -4898905448852613645
+    second: Cave - SmallRocks_233
+  - first:
+      213: -978905322729368353
+    second: Cave - SmallRocks_234
+  - first:
+      213: -76605718327683399
+    second: Cave - SmallRocks_235
+  - first:
+      213: 654100693476243650
+    second: Cave - SmallRocks_236
+  - first:
+      213: -8947911612827900581
+    second: Cave - SmallRocks_237
+  - first:
+      213: -1503685639866721523
+    second: Cave - SmallRocks_238
+  - first:
+      213: 4249053210488626718
+    second: Cave - SmallRocks_239
+  - first:
+      213: -6094926518091075282
+    second: Cave - SmallRocks_240
+  - first:
+      213: 5463668711117621129
+    second: Cave - SmallRocks_241
+  - first:
+      213: -8005107511859498137
+    second: Cave - SmallRocks_242
+  - first:
+      213: 1029956985342634290
+    second: Cave - SmallRocks_243
+  - first:
+      213: 7543455258965099709
+    second: Cave - SmallRocks_244
+  - first:
+      213: 6693784195779334272
+    second: Cave - SmallRocks_245
+  - first:
+      213: 6315754669424285902
+    second: Cave - SmallRocks_246
+  - first:
+      213: 5333295275585156272
+    second: Cave - SmallRocks_247
+  - first:
+      213: -8273111057862378502
+    second: Cave - SmallRocks_248
+  - first:
+      213: -8283124244949356239
+    second: Cave - SmallRocks_249
+  - first:
+      213: -2686813148420991040
+    second: Cave - SmallRocks_250
+  - first:
+      213: -1884045906392546308
+    second: Cave - SmallRocks_251
+  - first:
+      213: 3975680476055667826
+    second: Cave - SmallRocks_252
+  - first:
+      213: 723511844599950786
+    second: Cave - SmallRocks_253
+  - first:
+      213: 3972590704889360452
+    second: Cave - SmallRocks_254
+  - first:
+      213: -3706977031291769950
+    second: Cave - SmallRocks_255
+  - first:
+      213: 8131172923651520027
+    second: Cave - SmallRocks_256
+  - first:
+      213: 1128502110320414734
+    second: Cave - SmallRocks_257
+  - first:
+      213: -6880827070042322604
+    second: Cave - SmallRocks_258
+  - first:
+      213: 7290009597654228136
+    second: Cave - SmallRocks_259
+  - first:
+      213: 4257740718940968614
+    second: Cave - SmallRocks_260
+  - first:
+      213: -4357076214593913996
+    second: Cave - SmallRocks_261
+  - first:
+      213: 6841180420792658839
+    second: Cave - SmallRocks_262
+  - first:
+      213: -4020305360947490553
+    second: Cave - SmallRocks_263
+  - first:
+      213: -1363810344088435227
+    second: Cave - SmallRocks_264
+  - first:
+      213: 4415659779576839426
+    second: Cave - SmallRocks_265
+  - first:
+      213: -1636104917887489179
+    second: Cave - SmallRocks_266
+  - first:
+      213: -2078360509631013973
+    second: Cave - SmallRocks_267
+  - first:
+      213: 8194480380979640331
+    second: Cave - SmallRocks_268
+  - first:
+      213: -5722093374977465007
+    second: Cave - SmallRocks_269
+  - first:
+      213: 3687411890557078328
+    second: Cave - SmallRocks_270
+  - first:
+      213: 2406882292344395383
+    second: Cave - SmallRocks_271
+  - first:
+      213: 7812310690571800438
+    second: Cave - SmallRocks_272
+  - first:
+      213: -7153961928732843318
+    second: Cave - SmallRocks_273
+  - first:
+      213: -7692125447491913283
+    second: Cave - SmallRocks_274
+  - first:
+      213: 75591953570671738
+    second: Cave - SmallRocks_275
+  - first:
+      213: -5520593368591851216
+    second: Cave - SmallRocks_276
+  - first:
+      213: 9623359620112708
+    second: Cave - SmallRocks_277
+  - first:
+      213: 3867495130061379359
+    second: Cave - SmallRocks_278
+  - first:
+      213: 8427080650025455023
+    second: Cave - SmallRocks_279
+  - first:
+      213: -1718590495734923139
+    second: Cave - SmallRocks_280
+  - first:
+      213: -8575791539997324011
+    second: Cave - SmallRocks_281
+  - first:
+      213: 6717366454691201871
+    second: Cave - SmallRocks_282
+  - first:
+      213: -4255493093730352730
+    second: Cave - SmallRocks_283
+  - first:
+      213: -7064412104652256180
+    second: Cave - SmallRocks_284
+  - first:
+      213: -4335695984673182445
+    second: Cave - SmallRocks_285
+  - first:
+      213: -3583668199508795588
+    second: Cave - SmallRocks_286
+  - first:
+      213: 2953632449637013259
+    second: Cave - SmallRocks_287
+  - first:
+      213: 2064250347700223086
+    second: Cave - SmallRocks_288
+  - first:
+      213: -4684827596836453302
+    second: Cave - SmallRocks_289
+  - first:
+      213: 9046123198850015597
+    second: Cave - SmallRocks_290
+  - first:
+      213: 8058857462056169878
+    second: Cave - SmallRocks_291
+  - first:
+      213: 5869536790648702927
+    second: Cave - SmallRocks_292
+  - first:
+      213: -8472794364209707660
+    second: Cave - SmallRocks_293
+  - first:
+      213: 805124112609596923
+    second: Cave - SmallRocks_294
+  - first:
+      213: 1506544953251143017
+    second: Cave - SmallRocks_295
+  - first:
+      213: -2395854364659223767
+    second: Cave - SmallRocks_296
+  - first:
+      213: -924939624181832215
+    second: Cave - SmallRocks_297
+  - first:
+      213: -300393031008285986
+    second: Cave - SmallRocks_298
+  - first:
+      213: -4570356279670121153
+    second: Cave - SmallRocks_299
+  - first:
+      213: -4020381809801604997
+    second: Cave - SmallRocks_300
+  - first:
+      213: -5087799491435693572
+    second: Cave - SmallRocks_301
+  - first:
+      213: -4951550006760091104
+    second: Cave - SmallRocks_302
+  - first:
+      213: -5387881173607003849
+    second: Cave - SmallRocks_303
+  - first:
+      213: 4003220213010457349
+    second: Cave - SmallRocks_304
+  - first:
+      213: -9097369000955636051
+    second: Cave - SmallRocks_305
+  - first:
+      213: 2810864506820960792
+    second: Cave - SmallRocks_306
+  - first:
+      213: 6726475427419049859
+    second: Cave - SmallRocks_307
+  - first:
+      213: 1054845637576310894
+    second: Cave - SmallRocks_308
+  - first:
+      213: -8626009162345458503
+    second: Cave - SmallRocks_309
+  - first:
+      213: -8307082642354546212
+    second: Cave - SmallRocks_310
+  - first:
+      213: -1414603484927128989
+    second: Cave - SmallRocks_311
+  - first:
+      213: -3531121204457139553
+    second: Cave - SmallRocks_312
+  - first:
+      213: -3514250770381128596
+    second: Cave - SmallRocks_313
+  - first:
+      213: 2138988576277538605
+    second: Cave - SmallRocks_314
+  - first:
+      213: 5710847237071447269
+    second: Cave - SmallRocks_315
+  - first:
+      213: 8924710332623767621
+    second: Cave - SmallRocks_316
+  - first:
+      213: 6956261382640496616
+    second: Cave - SmallRocks_317
+  - first:
+      213: -2297451123569671396
+    second: Cave - SmallRocks_318
+  - first:
+      213: -8109169245765177250
+    second: Cave - SmallRocks_319
+  - first:
+      213: 1216161515573915712
+    second: Cave - SmallRocks_320
+  - first:
+      213: -1350308455055023464
+    second: Cave - SmallRocks_321
+  - first:
+      213: 2504222818422683036
+    second: Cave - SmallRocks_322
+  - first:
+      213: -1432941123121887762
+    second: Cave - SmallRocks_323
+  - first:
+      213: 5117652602848769238
+    second: Cave - SmallRocks_324
+  - first:
+      213: 4247807691220739458
+    second: Cave - SmallRocks_325
+  - first:
+      213: -7528359521915856630
+    second: Cave - SmallRocks_326
+  - first:
+      213: 8291620327691083567
+    second: Cave - SmallRocks_327
+  - first:
+      213: 1670977765980165851
+    second: Cave - SmallRocks_328
+  - first:
+      213: -8644197636416967998
+    second: Cave - SmallRocks_329
+  - first:
+      213: -5328445369640019546
+    second: Cave - SmallRocks_330
+  - first:
+      213: 3013390354864775155
+    second: Cave - SmallRocks_331
+  - first:
+      213: 3476783706391703024
+    second: Cave - SmallRocks_332
+  - first:
+      213: 8629815807475040461
+    second: Cave - SmallRocks_333
+  - first:
+      213: 351530277736783014
+    second: Cave - SmallRocks_334
+  - first:
+      213: -1727284681984956207
+    second: Cave - SmallRocks_335
+  - first:
+      213: 2318153591295059124
+    second: Cave - SmallRocks_336
+  - first:
+      213: -3601999415047719325
+    second: Cave - SmallRocks_337
+  - first:
+      213: -5940299426730399105
+    second: Cave - SmallRocks_338
+  - first:
+      213: 5788178252574871482
+    second: Cave - SmallRocks_339
+  - first:
+      213: -1860727414605613718
+    second: Cave - SmallRocks_340
+  - first:
+      213: -8881356263618824306
+    second: Cave - SmallRocks_341
+  - first:
+      213: 8980251093715493642
+    second: Cave - SmallRocks_342
+  - first:
+      213: -4019797925876332535
+    second: Cave - SmallRocks_343
+  - first:
+      213: 8348258656121882187
+    second: Cave - SmallRocks_344
+  - first:
+      213: 8845956955531207762
+    second: Cave - SmallRocks_345
+  - first:
+      213: 1306401391637286659
+    second: Cave - SmallRocks_346
+  - first:
+      213: 4048752469096679570
+    second: Cave - SmallRocks_347
+  - first:
+      213: 4328585113575539409
+    second: Cave - SmallRocks_348
+  - first:
+      213: 4537920443568328617
+    second: Cave - SmallRocks_349
+  - first:
+      213: -3074907575007262795
+    second: Cave - SmallRocks_350
+  - first:
+      213: 6450673997616977130
+    second: Cave - SmallRocks_351
+  - first:
+      213: -2257602976624130098
+    second: Cave - SmallRocks_352
+  - first:
+      213: 2837913747019459721
+    second: Cave - SmallRocks_353
+  - first:
+      213: -2460328750114053380
+    second: Cave - SmallRocks_354
+  - first:
+      213: 6047227285969693416
+    second: Cave - SmallRocks_355
+  - first:
+      213: -7096216231023051940
+    second: Cave - SmallRocks_356
+  - first:
+      213: 6640828535655032726
+    second: Cave - SmallRocks_357
+  - first:
+      213: 1732106349307615104
+    second: Cave - SmallRocks_358
+  - first:
+      213: 719667056622266878
+    second: Cave - SmallRocks_359
+  - first:
+      213: 9135461222909049241
+    second: Cave - SmallRocks_360
+  - first:
+      213: -1207654518010775113
+    second: Cave - SmallRocks_361
+  - first:
+      213: 7703840330545337160
+    second: Cave - SmallRocks_362
+  - first:
+      213: -970841045031110768
+    second: Cave - SmallRocks_363
+  - first:
+      213: -8375030172821599774
+    second: Cave - SmallRocks_364
+  - first:
+      213: -811353416152702520
+    second: Cave - SmallRocks_365
+  - first:
+      213: 5359010984340056696
+    second: Cave - SmallRocks_366
+  - first:
+      213: -5330185904633633210
+    second: Cave - SmallRocks_367
+  - first:
+      213: -6192243550193806092
+    second: Cave - SmallRocks_368
+  - first:
+      213: 4490817726517133166
+    second: Cave - SmallRocks_369
+  - first:
+      213: 3178848772584620873
+    second: Cave - SmallRocks_370
+  - first:
+      213: 7204608859312741118
+    second: Cave - SmallRocks_371
+  - first:
+      213: 8754109933567015361
+    second: Cave - SmallRocks_372
+  - first:
+      213: -3022576807433987970
+    second: Cave - SmallRocks_373
+  - first:
+      213: -6127287924702377823
+    second: Cave - SmallRocks_374
+  - first:
+      213: -3218949627812400715
+    second: Cave - SmallRocks_375
+  - first:
+      213: 8121300937226686416
+    second: Cave - SmallRocks_376
+  - first:
+      213: -6024701613490566864
+    second: Cave - SmallRocks_377
+  - first:
+      213: -226664813164510358
+    second: Cave - SmallRocks_378
+  - first:
+      213: -8623424869205080373
+    second: Cave - SmallRocks_379
+  - first:
+      213: -1163732338206079871
+    second: Cave - SmallRocks_380
+  - first:
+      213: -1287576358440764078
+    second: Cave - SmallRocks_381
+  - first:
+      213: -6250430186396638406
+    second: Cave - SmallRocks_382
+  - first:
+      213: -2812494420286475521
+    second: Cave - SmallRocks_383
+  - first:
+      213: 3280556389340746893
+    second: Cave - SmallRocks_384
+  - first:
+      213: -5720100398824625996
+    second: Cave - SmallRocks_385
+  - first:
+      213: 198498307737105596
+    second: Cave - SmallRocks_386
+  - first:
+      213: 8208912039754955796
+    second: Cave - SmallRocks_387
+  - first:
+      213: -1897021736014318308
+    second: Cave - SmallRocks_388
+  - first:
+      213: 4044672444232828604
+    second: Cave - SmallRocks_389
+  - first:
+      213: -4445366407113684209
+    second: Cave - SmallRocks_390
+  - first:
+      213: 1996472209592629086
+    second: Cave - SmallRocks_391
+  - first:
+      213: 8432665390508153471
+    second: Cave - SmallRocks_392
+  - first:
+      213: 4845659296186824428
+    second: Cave - SmallRocks_393
+  - first:
+      213: -274407957736509972
+    second: Cave - SmallRocks_394
+  - first:
+      213: -6312162923548133611
+    second: Cave - SmallRocks_395
+  - first:
+      213: -8768554478038126
+    second: Cave - SmallRocks_396
+  - first:
+      213: -8420433581317736585
+    second: Cave - SmallRocks_397
+  - first:
+      213: 3566995685016719128
+    second: Cave - SmallRocks_398
+  - first:
+      213: 4315223268729805686
+    second: Cave - SmallRocks_399
+  - first:
+      213: -5898811296569802866
+    second: Cave - SmallRocks_400
+  - first:
+      213: 3262164025307120922
+    second: Cave - SmallRocks_401
+  - first:
+      213: 2046171047144296880
+    second: Cave - SmallRocks_402
+  - first:
+      213: 8295846686809978697
+    second: Cave - SmallRocks_403
+  - first:
+      213: 6974376957595076133
+    second: Cave - SmallRocks_404
+  - first:
+      213: 3069209564317093781
+    second: Cave - SmallRocks_405
+  - first:
+      213: 5049678837980702917
+    second: Cave - SmallRocks_406
+  - first:
+      213: -4282542993547668275
+    second: Cave - SmallRocks_407
+  - first:
+      213: -7056992024100556562
+    second: Cave - SmallRocks_408
+  - first:
+      213: -8602836959175636641
+    second: Cave - SmallRocks_409
+  - first:
+      213: -7405808449940395350
+    second: Cave - SmallRocks_410
+  - first:
+      213: -4386167361552116922
+    second: Cave - SmallRocks_411
+  - first:
+      213: 3323320409687651764
+    second: Cave - SmallRocks_412
+  - first:
+      213: 213194279965072403
+    second: Cave - SmallRocks_413
+  - first:
+      213: 8984345953133944942
+    second: Cave - SmallRocks_414
+  - first:
+      213: 5153494723768266884
+    second: Cave - SmallRocks_415
+  - first:
+      213: -4034954543092901483
+    second: Cave - SmallRocks_416
+  - first:
+      213: -176996298391149474
+    second: Cave - SmallRocks_417
+  - first:
+      213: -298275398017295674
+    second: Cave - SmallRocks_418
+  - first:
+      213: 1582079318478770305
+    second: Cave - SmallRocks_419
+  - first:
+      213: 7363302306646564963
+    second: Cave - SmallRocks_420
+  - first:
+      213: -2355774138478044233
+    second: Cave - SmallRocks_421
+  - first:
+      213: 3652906966789775332
+    second: Cave - SmallRocks_422
+  - first:
+      213: -8582846941376040079
+    second: Cave - SmallRocks_423
+  - first:
+      213: -7465563082999755172
+    second: Cave - SmallRocks_424
+  - first:
+      213: 1581170037420820552
+    second: Cave - SmallRocks_425
+  - first:
+      213: -3349540753137243434
+    second: Cave - SmallRocks_426
+  - first:
+      213: -1888039631301284553
+    second: Cave - SmallRocks_427
+  - first:
+      213: 7874918998341764788
+    second: Cave - SmallRocks_428
+  - first:
+      213: -8605258314966151250
+    second: Cave - SmallRocks_429
+  - first:
+      213: -9071043223230405932
+    second: Cave - SmallRocks_430
+  - first:
+      213: -1225200508226637617
+    second: Cave - SmallRocks_431
+  - first:
+      213: -7370782592712946063
+    second: Cave - SmallRocks_432
+  - first:
+      213: -3696647095171968743
+    second: Cave - SmallRocks_433
+  - first:
+      213: 4834266973645445381
+    second: Cave - SmallRocks_434
+  - first:
+      213: 3880434184617711810
+    second: Cave - SmallRocks_435
+  - first:
+      213: -838787679910127025
+    second: Cave - SmallRocks_436
+  - first:
+      213: 9120524678162693508
+    second: Cave - SmallRocks_437
+  - first:
+      213: -8246588125933435421
+    second: Cave - SmallRocks_438
+  - first:
+      213: -5869157026073019153
+    second: Cave - SmallRocks_439
+  - first:
+      213: 1740170844204977902
+    second: Cave - SmallRocks_440
+  - first:
+      213: 6187659902899035937
+    second: Cave - SmallRocks_441
+  - first:
+      213: 1979829748851175941
+    second: Cave - SmallRocks_442
+  - first:
+      213: 3018527170179679499
+    second: Cave - SmallRocks_443
+  - first:
+      213: 5794413947628818321
+    second: Cave - SmallRocks_444
+  - first:
+      213: 634022568913680788
+    second: Cave - SmallRocks_445
+  - first:
+      213: 7323164497623217244
+    second: Cave - SmallRocks_446
+  - first:
+      213: 8048030506249855778
+    second: Cave - SmallRocks_447
+  - first:
+      213: -6433258105548347114
+    second: Cave - SmallRocks_448
+  - first:
+      213: 4857900370997356181
+    second: Cave - SmallRocks_449
+  - first:
+      213: -7153251505031236391
+    second: Cave - SmallRocks_450
+  - first:
+      213: 2607907581483662672
+    second: Cave - SmallRocks_451
+  - first:
+      213: 3289800350712852833
+    second: Cave - SmallRocks_452
+  - first:
+      213: -6186734774374572991
+    second: Cave - SmallRocks_453
+  - first:
+      213: -2991183546276329508
+    second: Cave - SmallRocks_454
+  - first:
+      213: 6023857924709123968
+    second: Cave - SmallRocks_455
+  - first:
+      213: 3725829346100550339
+    second: Cave - SmallRocks_456
+  - first:
+      213: 7454556565211740736
+    second: Cave - SmallRocks_457
+  - first:
+      213: 5498043107577879949
+    second: Cave - SmallRocks_458
+  - first:
+      213: -3738254605054589417
+    second: Cave - SmallRocks_459
+  - first:
+      213: 3152117316964783745
+    second: Cave - SmallRocks_460
+  - first:
+      213: 8133798374547364654
+    second: Cave - SmallRocks_461
+  - first:
+      213: -506499484620258620
+    second: Cave - SmallRocks_462
+  - first:
+      213: 3345914221118764360
+    second: Cave - SmallRocks_463
+  - first:
+      213: 7539234144189538319
+    second: Cave - SmallRocks_464
+  - first:
+      213: 8831666920577763811
+    second: Cave - SmallRocks_465
+  - first:
+      213: -4706188851193192078
+    second: Cave - SmallRocks_466
+  - first:
+      213: -3514660548055628297
+    second: Cave - SmallRocks_467
+  - first:
+      213: 4362139537821728787
+    second: Cave - SmallRocks_468
+  - first:
+      213: -2879849553006885219
+    second: Cave - SmallRocks_469
+  - first:
+      213: 2442257844098356871
+    second: Cave - SmallRocks_470
+  - first:
+      213: 8610750041232608869
+    second: Cave - SmallRocks_471
+  - first:
+      213: -6834003831966561994
+    second: Cave - SmallRocks_472
+  - first:
+      213: 6980195907821699106
+    second: Cave - SmallRocks_473
+  - first:
+      213: 3340697658251696716
+    second: Cave - SmallRocks_474
+  - first:
+      213: -8248704374138469947
+    second: Cave - SmallRocks_475
+  - first:
+      213: -4877666629771375179
+    second: Cave - SmallRocks_476
+  - first:
+      213: -715634159289965823
+    second: Cave - SmallRocks_477
+  - first:
+      213: 5752976052420760278
+    second: Cave - SmallRocks_478
+  - first:
+      213: -4994184819633847093
+    second: Cave - SmallRocks_479
+  - first:
+      213: -6350011697194623937
+    second: Cave - SmallRocks_480
+  - first:
+      213: -5332648617550827340
+    second: Cave - SmallRocks_481
+  - first:
+      213: 1749589381372283743
+    second: Cave - SmallRocks_482
+  - first:
+      213: 8794567332835092657
+    second: Cave - SmallRocks_483
+  - first:
+      213: 197510377633463120
+    second: Cave - SmallRocks_484
+  - first:
+      213: -2104613733499691217
+    second: Cave - SmallRocks_485
+  - first:
+      213: -4306135443769321744
+    second: Cave - SmallRocks_486
+  - first:
+      213: -6960925817655612331
+    second: Cave - SmallRocks_487
+  - first:
+      213: -7785969097148216941
+    second: Cave - SmallRocks_488
+  - first:
+      213: -3090341328683387862
+    second: Cave - SmallRocks_489
+  - first:
+      213: -4171289862624112773
+    second: Cave - SmallRocks_490
+  - first:
+      213: -6946527988756767526
+    second: Cave - SmallRocks_491
+  - first:
+      213: -6512655269553926893
+    second: Cave - SmallRocks_492
+  - first:
+      213: 6844969832096242056
+    second: Cave - SmallRocks_493
+  - first:
+      213: 610487380137579374
+    second: Cave - SmallRocks_494
+  - first:
+      213: 8687712127827325087
+    second: Cave - SmallRocks_495
+  - first:
+      213: -1729923645514291338
+    second: Cave - SmallRocks_496
+  - first:
+      213: -2649010428759522799
+    second: Cave - SmallRocks_497
+  - first:
+      213: 5688666645427272349
+    second: Cave - SmallRocks_498
+  - first:
+      213: 7256211166161171624
+    second: Cave - SmallRocks_499
+  - first:
+      213: 4900837007512862689
+    second: Cave - SmallRocks_500
+  - first:
+      213: 4837749493921457626
+    second: Cave - SmallRocks_501
+  - first:
+      213: 3914422643634611870
+    second: Cave - SmallRocks_502
+  - first:
+      213: -5642442549771899762
+    second: Cave - SmallRocks_503
+  - first:
+      213: 4058439295733599199
+    second: Cave - SmallRocks_504
+  - first:
+      213: 1522960322618473015
+    second: Cave - SmallRocks_505
+  - first:
+      213: 1134051585037648472
+    second: Cave - SmallRocks_506
+  - first:
+      213: -7183452806249288003
+    second: Cave - SmallRocks_507
+  - first:
+      213: -7310612625227126902
+    second: Cave - SmallRocks_508
+  - first:
+      213: 7340790984121048940
+    second: Cave - SmallRocks_509
+  - first:
+      213: 7590857419801277626
+    second: Cave - SmallRocks_510
+  - first:
+      213: -971316041460050436
+    second: Cave - SmallRocks_511
+  - first:
+      213: -7596442833784770119
+    second: Cave - SmallRocks_512
+  - first:
+      213: -3139557147091660141
+    second: Cave - SmallRocks_513
+  - first:
+      213: 2430682790013435978
+    second: Cave - SmallRocks_514
+  - first:
+      213: -1439120802538993275
+    second: Cave - SmallRocks_515
+  - first:
+      213: 9125429259607503854
+    second: Cave - SmallRocks_516
+  - first:
+      213: -8788861384464961011
+    second: Cave - SmallRocks_517
+  - first:
+      213: -376477300855160449
+    second: Cave - SmallRocks_518
+  - first:
+      213: 2400818488586669829
+    second: Cave - SmallRocks_519
+  - first:
+      213: -3368757885478366917
+    second: Cave - SmallRocks_520
+  - first:
+      213: -4179600950194833532
+    second: Cave - SmallRocks_521
+  - first:
+      213: -6379163813576800563
+    second: Cave - SmallRocks_522
+  - first:
+      213: -8857283388621114943
+    second: Cave - SmallRocks_523
+  - first:
+      213: -1953338778962471441
+    second: Cave - SmallRocks_524
+  - first:
+      213: 7707898487516931982
+    second: Cave - SmallRocks_525
+  - first:
+      213: -6528048719301038400
+    second: Cave - SmallRocks_526
+  - first:
+      213: 2452130582928009671
+    second: Cave - SmallRocks_527
+  - first:
+      213: 6664115261723687296
+    second: Cave - SmallRocks_528
+  - first:
+      213: 1620903611962370629
+    second: Cave - SmallRocks_529
+  - first:
+      213: 3515570755876030107
+    second: Cave - SmallRocks_530
+  - first:
+      213: 8300997425055058974
+    second: Cave - SmallRocks_531
+  - first:
+      213: -4951207123799821871
+    second: Cave - SmallRocks_532
+  - first:
+      213: 5792622706765858299
+    second: Cave - SmallRocks_533
+  - first:
+      213: -8189308830154562788
+    second: Cave - SmallRocks_534
+  - first:
+      213: 2526017177462091051
+    second: Cave - SmallRocks_535
+  - first:
+      213: -3824448433965806379
+    second: Cave - SmallRocks_536
+  - first:
+      213: -7094030690962080284
+    second: Cave - SmallRocks_537
+  - first:
+      213: -3614622375622838481
+    second: Cave - SmallRocks_538
+  - first:
+      213: -7645536543184269457
+    second: Cave - SmallRocks_539
+  - first:
+      213: -102938488132129036
+    second: Cave - SmallRocks_540
+  - first:
+      213: -2788739490528225822
+    second: Cave - SmallRocks_541
+  - first:
+      213: -3494616746159484914
+    second: Cave - SmallRocks_542
+  - first:
+      213: -598759542574362638
+    second: Cave - SmallRocks_543
+  - first:
+      213: 9219888564424836040
+    second: Cave - SmallRocks_544
+  - first:
+      213: -726920881482633090
+    second: Cave - SmallRocks_545
+  - first:
+      213: 14852150919194357
+    second: Cave - SmallRocks_546
+  - first:
+      213: 4833532090700076728
+    second: Cave - SmallRocks_547
+  - first:
+      213: 7474555542308880691
+    second: Cave - SmallRocks_548
+  - first:
+      213: -3240279114311447085
+    second: Cave - SmallRocks_549
+  - first:
+      213: -8373514982599826537
+    second: Cave - SmallRocks_550
+  - first:
+      213: 7014323726260150668
+    second: Cave - SmallRocks_551
+  - first:
+      213: -3929599651956811489
+    second: Cave - SmallRocks_552
+  - first:
+      213: -4012306542713946789
+    second: Cave - SmallRocks_553
+  - first:
+      213: 7540432230884128441
+    second: Cave - SmallRocks_554
+  - first:
+      213: 3913507711866094147
+    second: Cave - SmallRocks_555
+  - first:
+      213: -6119789650533506055
+    second: Cave - SmallRocks_556
+  - first:
+      213: 5948395499405285024
+    second: Cave - SmallRocks_557
+  - first:
+      213: -1688843603045931828
+    second: Cave - SmallRocks_558
+  - first:
+      213: -6742732328691356062
+    second: Cave - SmallRocks_559
+  - first:
+      213: -4750626750524452495
+    second: Cave - SmallRocks_560
+  - first:
+      213: -3043961829259004999
+    second: Cave - SmallRocks_561
+  - first:
+      213: -1359666606575061963
+    second: Cave - SmallRocks_562
+  - first:
+      213: 5074265331369524292
+    second: Cave - SmallRocks_563
+  - first:
+      213: 4643863338896366658
+    second: Cave - SmallRocks_564
+  - first:
+      213: -9197071632008777447
+    second: Cave - SmallRocks_565
+  - first:
+      213: -1618653496230577190
+    second: Cave - SmallRocks_566
+  - first:
+      213: 763491367734666795
+    second: Cave - SmallRocks_567
+  - first:
+      213: -7578476672459483795
+    second: Cave - SmallRocks_568
+  - first:
+      213: -127438481260292515
+    second: Cave - SmallRocks_569
+  - first:
+      213: 4690701499951819942
+    second: Cave - SmallRocks_570
+  - first:
+      213: -1739734470858746251
+    second: Cave - SmallRocks_571
+  - first:
+      213: 3714933381171395427
+    second: Cave - SmallRocks_572
+  - first:
+      213: -8735183136029419560
+    second: Cave - SmallRocks_573
+  - first:
+      213: 1530912052235951432
+    second: Cave - SmallRocks_574
+  - first:
+      213: -5616322090503059180
+    second: Cave - SmallRocks_575
+  - first:
+      213: -1372874893213904145
+    second: Cave - SmallRocks_576
+  - first:
+      213: -4431823781357565654
+    second: Cave - SmallRocks_577
+  - first:
+      213: -8559861301559282859
+    second: Cave - SmallRocks_578
+  - first:
+      213: -777898517507477729
+    second: Cave - SmallRocks_579
+  - first:
+      213: 8645137628407546189
+    second: Cave - SmallRocks_580
+  - first:
+      213: -5890248800438380382
+    second: Cave - SmallRocks_581
+  - first:
+      213: 1441196519896133859
+    second: Cave - SmallRocks_582
+  - first:
+      213: -5368618795084213908
+    second: Cave - SmallRocks_583
+  - first:
+      213: -3394581516540096154
+    second: Cave - SmallRocks_584
+  - first:
+      213: -954368449847103407
+    second: Cave - SmallRocks_585
+  - first:
+      213: -2739842543731014528
+    second: Cave - SmallRocks_586
+  - first:
+      213: -3887099458860385886
+    second: Cave - SmallRocks_587
+  - first:
+      213: 3926022003719044711
+    second: Cave - SmallRocks_588
+  - first:
+      213: 8803441913493653626
+    second: Cave - SmallRocks_589
+  - first:
+      213: 57471276069791040
+    second: Cave - SmallRocks_590
+  - first:
+      213: -7447169204849143150
+    second: Cave - SmallRocks_591
+  - first:
+      213: 7358733110389865295
+    second: Cave - SmallRocks_592
+  - first:
+      213: -4042901998979187002
+    second: Cave - SmallRocks_593
+  - first:
+      213: 493335425971649452
+    second: Cave - SmallRocks_594
+  - first:
+      213: 4883160971619771953
+    second: Cave - SmallRocks_595
+  - first:
+      213: 5154818045922132235
+    second: Cave - SmallRocks_596
+  - first:
+      213: 7576898008010771788
+    second: Cave - SmallRocks_597
+  - first:
+      213: 8130230080045807549
+    second: Cave - SmallRocks_598
+  - first:
+      213: -1867407092703300864
+    second: Cave - SmallRocks_599
+  - first:
+      213: 8812475885675856412
+    second: Cave - SmallRocks_600
+  - first:
+      213: 1191702456577650714
+    second: Cave - SmallRocks_601
+  - first:
+      213: -8577067156207016722
+    second: Cave - SmallRocks_602
+  - first:
+      213: -5949201279707975522
+    second: Cave - SmallRocks_603
+  - first:
+      213: 2561698601187292223
+    second: Cave - SmallRocks_604
+  - first:
+      213: 3575706606174067246
+    second: Cave - SmallRocks_605
+  - first:
+      213: -5809688146403951020
+    second: Cave - SmallRocks_606
+  - first:
+      213: 3748648138224694561
+    second: Cave - SmallRocks_607
+  - first:
+      213: 6843402913197212681
+    second: Cave - SmallRocks_608
+  - first:
+      213: -871085100741349157
+    second: Cave - SmallRocks_609
+  - first:
+      213: 2696023236666786613
+    second: Cave - SmallRocks_610
+  - first:
+      213: -7426538646441691444
+    second: Cave - SmallRocks_611
+  - first:
+      213: 1556306776233573721
+    second: Cave - SmallRocks_612
+  - first:
+      213: -1918147047459882226
+    second: Cave - SmallRocks_613
+  - first:
+      213: 3781486656790382216
+    second: Cave - SmallRocks_614
+  - first:
+      213: -6747695959769548956
+    second: Cave - SmallRocks_615
+  - first:
+      213: -5766627927475944521
+    second: Cave - SmallRocks_616
+  - first:
+      213: -6300383068357088387
+    second: Cave - SmallRocks_617
+  - first:
+      213: 3005584621411005548
+    second: Cave - SmallRocks_618
+  - first:
+      213: -3956557224429049448
+    second: Cave - SmallRocks_619
+  - first:
+      213: -7610632375506822355
+    second: Cave - SmallRocks_620
+  - first:
+      213: 8258081232269229274
+    second: Cave - SmallRocks_621
+  - first:
+      213: -5419674034595052697
+    second: Cave - SmallRocks_622
+  - first:
+      213: -4375415281014883104
+    second: Cave - SmallRocks_623
+  - first:
+      213: -757228175712484105
+    second: Cave - SmallRocks_624
+  - first:
+      213: -3232336252052042256
+    second: Cave - SmallRocks_625
+  - first:
+      213: 5447020903555027056
+    second: Cave - SmallRocks_626
+  - first:
+      213: 968339948698568579
+    second: Cave - SmallRocks_627
+  - first:
+      213: 7914579829671227684
+    second: Cave - SmallRocks_628
+  - first:
+      213: -7804339038007422946
+    second: Cave - SmallRocks_629
+  - first:
+      213: -8321252300426599044
+    second: Cave - SmallRocks_630
+  - first:
+      213: -1552571343092488737
+    second: Cave - SmallRocks_631
+  - first:
+      213: -4176811154150129526
+    second: Cave - SmallRocks_632
+  - first:
+      213: 7554323553466505865
+    second: Cave - SmallRocks_633
+  - first:
+      213: 7999048600017557521
+    second: Cave - SmallRocks_634
+  - first:
+      213: -475632250782200586
+    second: Cave - SmallRocks_635
+  - first:
+      213: 5629482197409072494
+    second: Cave - SmallRocks_636
+  - first:
+      213: 6519824253697227535
+    second: Cave - SmallRocks_637
+  - first:
+      213: -2164986885405891549
+    second: Cave - SmallRocks_638
+  - first:
+      213: -8255235349745136222
+    second: Cave - SmallRocks_639
+  - first:
+      213: -2385591383232961530
+    second: Cave - SmallRocks_640
+  - first:
+      213: -5377759688812508117
+    second: Cave - SmallRocks_641
+  - first:
+      213: 6490854911929685276
+    second: Cave - SmallRocks_642
+  - first:
+      213: 1172231191786749735
+    second: Cave - SmallRocks_643
+  - first:
+      213: -2140680433177009778
+    second: Cave - SmallRocks_644
+  - first:
+      213: -330250364459013154
+    second: Cave - SmallRocks_645
+  - first:
+      213: 1630256882222021660
+    second: Cave - SmallRocks_646
+  - first:
+      213: -4307296110350603809
+    second: Cave - SmallRocks_647
+  - first:
+      213: 4131923475822828417
+    second: Cave - SmallRocks_648
+  - first:
+      213: 7698621025854279267
+    second: Cave - SmallRocks_649
+  - first:
+      213: 5828378160185147186
+    second: Cave - SmallRocks_650
+  - first:
+      213: -555677704331519909
+    second: Cave - SmallRocks_651
+  - first:
+      213: 3110806995436246700
+    second: Cave - SmallRocks_652
+  - first:
+      213: 957008751722345117
+    second: Cave - SmallRocks_653
+  - first:
+      213: -3073928115899541372
+    second: Cave - SmallRocks_654
+  - first:
+      213: -7097175028244069263
+    second: Cave - SmallRocks_655
+  - first:
+      213: 5826148977973672759
+    second: Cave - SmallRocks_656
+  - first:
+      213: 1594195886833810582
+    second: Cave - SmallRocks_657
+  - first:
+      213: -6907090779418818468
+    second: Cave - SmallRocks_658
+  - first:
+      213: 321525054522834435
+    second: Cave - SmallRocks_659
+  - first:
+      213: -6794717963656140410
+    second: Cave - SmallRocks_660
+  - first:
+      213: -1623589252214879353
+    second: Cave - SmallRocks_661
+  - first:
+      213: 8495142373662729457
+    second: Cave - SmallRocks_662
+  - first:
+      213: 900679775503456876
+    second: Cave - SmallRocks_663
+  - first:
+      213: 4874708027774704222
+    second: Cave - SmallRocks_664
+  - first:
+      213: 4541455395826164126
+    second: Cave - SmallRocks_665
+  - first:
+      213: -8780479880969398240
+    second: Cave - SmallRocks_666
+  - first:
+      213: -4939291430788942499
+    second: Cave - SmallRocks_667
+  - first:
+      213: 2819808322181917515
+    second: Cave - SmallRocks_668
+  - first:
+      213: 4715704985520102143
+    second: Cave - SmallRocks_669
+  - first:
+      213: -691786355407991358
+    second: Cave - SmallRocks_670
+  - first:
+      213: 1743349345283585017
+    second: Cave - SmallRocks_671
+  - first:
+      213: 8467563835784623029
+    second: Cave - SmallRocks_672
+  - first:
+      213: -4650229360643592145
+    second: Cave - SmallRocks_673
+  - first:
+      213: 4265620289144587047
+    second: Cave - SmallRocks_674
+  - first:
+      213: -8503938143245103978
+    second: Cave - SmallRocks_675
+  - first:
+      213: -6037156436313823496
+    second: Cave - SmallRocks_676
+  - first:
+      213: 2088550724234561145
+    second: Cave - SmallRocks_677
+  - first:
+      213: -347607452051109584
+    second: Cave - SmallRocks_678
+  - first:
+      213: 7921810001605993984
+    second: Cave - SmallRocks_679
+  - first:
+      213: -1635758659398572703
+    second: Cave - SmallRocks_680
+  - first:
+      213: -2348062468924390448
+    second: Cave - SmallRocks_681
+  - first:
+      213: 7739277120606366296
+    second: Cave - SmallRocks_682
+  - first:
+      213: 2444701680908990412
+    second: Cave - SmallRocks_683
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave - SmallRocks_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1841
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fdf7852da30ab60800000000000000
+      internalID: 7755263233434312463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1846
+        width: 122
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bc29ee29e6ff8e0800000000000000
+      internalID: -1657484560502174974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1844
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fd6a2c27a246dd0800000000000000
+      internalID: -2493821621276057831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1812
+        width: 175
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889d5797a612a1c0800000000000000
+      internalID: -4494004569107490680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1806
+        width: 172
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f81bed5dc21da0800000000000000
+      internalID: -5975487952307293109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_5
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1810
+        width: 189
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905155a91f724b50800000000000000
+      internalID: 6575958154038825118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_6
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1815
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152a6ab4a78ae290800000000000000
+      internalID: -7860321058049874662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1628
+        width: 145
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdf97a2dde10d470800000000000000
+      internalID: 8417261638804700597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_8
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1725
+        width: 172
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d203015f8f09b0800000000000000
+      internalID: -5111709473936583927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1631
+        width: 187
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729c4098897447a0800000000000000
+      internalID: -6393851943515811214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1644
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f100f834298730800000000000000
+      internalID: 4001769570858825416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1610
+        width: 132
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4dfa0880f2edb50800000000000000
+      internalID: 6619780215846458576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_12
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1616
+        width: 164
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a06250fe7355e1a0800000000000000
+      internalID: -6780921859273498462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_13
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1574
+        width: 380
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cbd89dfdb9f1730800000000000000
+      internalID: 3972064782094023837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_14
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1715
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ebdf490a976f9f0800000000000000
+      internalID: -435026583393288548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1648
+        width: 116
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21492d6f763edf50800000000000000
+      internalID: 6908018799353086255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1649
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78854fb8563d0300800000000000000
+      internalID: 219891711605049466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1348
+        width: 195
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbbe8f41037b6960800000000000000
+      internalID: 7596291645957389264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1304
+        width: 185
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3352f56fc8f105a0800000000000000
+      internalID: -6556686012822432966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1304
+        width: 176
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4342a28702498070800000000000000
+      internalID: 8109085204081165132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_20
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1302
+        width: 186
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e121d0dd1b75c0800000000000000
+      internalID: -4216743843403275318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1223
+        width: 311
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9041d681f5bc3b450800000000000000
+      internalID: 6103445529309287433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_22
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1411
+        width: 170
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4811c2f5d4cade0800000000000000
+      internalID: -1320595519569820478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_23
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1405
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d7626438e88670800000000000000
+      internalID: 8541332004995060163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_24
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1401
+        width: 121
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d92bdc1989f570800000000000000
+      internalID: 8500976528667564117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_25
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1211
+        width: 306
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16bb49e7a05c0a0800000000000000
+      internalID: -6862066918451617320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 551
+        width: 730
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572428fe5dd01510800000000000000
+      internalID: 1517956474383640410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_27
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 984
+        width: 132
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb3824fceb593d0800000000000000
+      internalID: -3200442162793432106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_28
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 993
+        width: 123
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2d0ee89a240ce0800000000000000
+      internalID: -1439979144534480287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_29
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 988
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edfe007138c6a7f0800000000000000
+      internalID: -601573385548399128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1020
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf589568faa993c0800000000000000
+      internalID: -4352259581043777614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_31
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 989
+        width: 132
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b093791e0e2d3da0800000000000000
+      internalID: -5963559693477244749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_32
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 651
+        width: 188
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55fb5a32612326d0800000000000000
+      internalID: -3016530619638483621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_33
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 475
+        width: 731
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583570e937ce7190800000000000000
+      internalID: -7962708039751616428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_34
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 651
+        width: 188
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2e434cf32d5db0800000000000000
+      internalID: -4801642061339153062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_35
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 560
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73f018fad85f800800000000000000
+      internalID: 645577906521585614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_36
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 34
+        width: 188
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf17fc984aa8ca0800000000000000
+      internalID: -6013813440602047623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_37
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 481
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bc1141dcb65a6d0800000000000000
+      internalID: -2979857049886536812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 345
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4673fc5cf94b72030800000000000000
+      internalID: 3469940636223747940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 41
+        width: 387
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e880c91b079dbc10800000000000000
+      internalID: 2070977477592778985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_40
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 41
+        width: 311
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40163c361749bd970800000000000000
+      internalID: 8780775113214877956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_41
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 31
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a266e3d6099c1e0800000000000000
+      internalID: -2177050145984206322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_42
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 48
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d692b9adfc93ed30800000000000000
+      internalID: 4459580669314635480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_43
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 35
+        width: 187
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52392d5f9507eace0800000000000000
+      internalID: -1392051703132286171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
