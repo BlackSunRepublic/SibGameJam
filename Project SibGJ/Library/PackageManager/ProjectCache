@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637869769602785475
-    m_Hash: 418169624
+      ticks: 637869959228180037
+    m_Hash: 292097950
   m_LockFileStatus:
     m_FilePath: C:/Development/SibGameJam/Project SibGJ/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637869769602825362
-    m_Hash: 1869978068
+      ticks: 637869959228180037
+    m_Hash: 3034767137
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
