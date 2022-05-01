@@ -8,6 +8,7 @@ public class InteractebleObject : MonoBehaviour
     [SerializeField] Material outlineMaterial;
     [SerializeField] Material defaultMaterial;
     [SerializeField] GameObject hint;
+    [SerializeField] Animator eventAnimation;
     private SpriteRenderer spriteRenderer;
     private void Awake()
     {
@@ -25,5 +26,9 @@ public class InteractebleObject : MonoBehaviour
             spriteRenderer.material = defaultMaterial;
             hint.SetActive(false);
         }
+    }
+    public void StartEvent()
+    {
+        eventAnimation.Play("Action");
     }
 }
