@@ -115,6 +115,18 @@ public class PlayerMovment : MonoBehaviour
             playerSpeed = deffaultSpeed * 0.5f;
             collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
         }
+        if (collision.tag == "Death")
+        {
+            UI.UIData.losePanel.SetActive(true);
+            if (itsWhite)
+            {
+                UI.UIData.loseText.text = "Дейзи погибла...";
+            }
+            else
+            {
+                UI.UIData.loseText.text = "Тень погиб...";
+            }
+        }
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
@@ -132,7 +144,7 @@ public class PlayerMovment : MonoBehaviour
     }
     public void Ability()
     {
-        if (!itsWhite)
+        if (!itsWhite&&!isJumpin)
         {
             isActiveAbility = !isActiveAbility;
             Color color = spriteRenderer.color;
