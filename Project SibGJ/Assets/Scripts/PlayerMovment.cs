@@ -10,11 +10,19 @@ public class PlayerMovment : MonoBehaviour
     [SerializeField] private float jumpPower;
     [SerializeField] private float toGroundDistance;
     [SerializeField] private bool itsWhite;
+    [Header("Только для тени")]
+    [SerializeField] private GameObject realPlayer;
+    [SerializeField] private float abilityDistance;
     private Rigidbody2D rigidbody;
     private bool isJumpin = false;
     private Vector2 jumpVector;
     private Control control;
     private float deffaultSpeed;
+    private SpriteRenderer spriteRenderer;
+    private float startTimer;
+    private List<InteractebleObject> flammableObjects = new List<InteractebleObject>();
+    private InteractebleObject activeFlammableObject;
+    private InteractebleObject activeInterObject;
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -22,6 +30,16 @@ public class PlayerMovment : MonoBehaviour
         jumpVector = new Vector2(0, jumpPower);
         Debug.DrawRay(transform.position, Vector2.down * 5, Color.red);
         deffaultSpeed = playerSpeed;
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        startTimer = Time.time;
+        GameObject[] objects = GameObject.FindGameObjectsWithTag("Flammable");
+        if (itsWhite)
+        {
+            foreach (GameObject gameObj in objects)
+            {
+                flammableObjects.Add(gameObj.GetComponent<InteractebleObject>());
+            }
+        }
     }
     public void Move(float direction)
     {
@@ -47,17 +65,50 @@ public class PlayerMovment : MonoBehaviour
         {
             isJumpin = true;
         }
+        if (isActiveAbility && !itsWhite)
+        {
+            if((transform.position.x - realPlayer.transform.position.x) > abilityDistance)
+            {
+                transform.position = new Vector2(realPlayer.transform.position.x + abilityDistance, transform.position.y);
+            }
+            if ((transform.position.x - realPlayer.transform.position.x) < - abilityDistance)
+            {
+                transform.position = new Vector2(realPlayer.transform.position.x - abilityDistance, transform.position.y);
+            }
+        }
+        if (Time.time - startTimer > 1.0f && itsWhite)
+        {
+            foreach(InteractebleObject iObj in flammableObjects)
+            {
+                if (Mathf.Abs(Vector2.Distance(transform.position, iObj.transform.position)) <= abilityDistance)
+                {
+                    iObj.Contact(true);
+                    activeFlammableObject = iObj;
+                    break;
+                }
+                else 
+                {
+                    iObj.Contact(false);
+                }
+                activeFlammableObject = null;
+            }
+            startTimer = Time.time;
+        }
     }
     public void Interaction()
     {
-
+        if (activeInterObject)
+        {
+            activeInterObject.StartEvent();
+        }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "Interaction")
         {
             control.isInteract = true;
-            collision.GetComponent<InteractebleObject>().Contact(true);
+            activeInterObject = collision.GetComponent<InteractebleObject>();
+            activeInterObject.Contact(true);
         }
         if (collision.transform.tag == "Movment")
         {
@@ -71,6 +122,7 @@ public class PlayerMovment : MonoBehaviour
         {
             control.isInteract = false;
             collision.GetComponent<InteractebleObject>().Contact(false);
+            activeInterObject = null;
         }
         if (collision.transform.tag == "Movment")
         {
@@ -80,9 +132,34 @@ public class PlayerMovment : MonoBehaviour
     }
     public void Ability()
     {
-        if (itsWhite)
+        if (!itsWhite)
         {
-
+            isActiveAbility = !isActiveAbility;
+            Color color = spriteRenderer.color;
+            if (isActiveAbility)
+            {
+                color.a = 0.5f;
+                gameObject.layer = LayerMask.NameToLayer("Shadow");
+                realPlayer.transform.parent = transform.parent;
+                realPlayer.SetActive(true);
+            }
+            else
+            {
+                color.a = 1;
+                gameObject.layer = LayerMask.NameToLayer("Default");
+                transform.position = realPlayer.transform.position;
+                realPlayer.transform.parent = transform;
+                realPlayer.SetActive(false);
+            }
+            spriteRenderer.color = color;
+        }
+        else
+        {
+            if (activeFlammableObject)
+            {
+                flammableObjects.Remove(activeFlammableObject);
+                Destroy(activeFlammableObject.gameObject, 2);
+            }
         }
     }
 }
