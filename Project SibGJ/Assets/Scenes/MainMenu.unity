@@ -255,7 +255,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b2765c65a804444498f4d6bf1a050f35, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f45a0e010c371f34fb022179f0cd2d6b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1529,6 +1529,7 @@ MonoBehaviour:
   menuButtonsPanel: {fileID: 1241875204}
   aboutGamesPanel: {fileID: 595956407}
   aboutAuthorsPanel: {fileID: 121503138}
+  sceneIndex: 1
 --- !u!1 &1466415997
 GameObject:
   m_ObjectHideFlags: 0
