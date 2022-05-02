@@ -22,6 +22,11 @@ public class UI : MonoBehaviour
     {
         SceneManager.LoadScene(sceneIndex);
     }
+    public void NextScene()
+    {
+        int index = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(index + 1);
+    }
     public void MessageText(string text, int seconds)
     {
         hint.SetActive(true);

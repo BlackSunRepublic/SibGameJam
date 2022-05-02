@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5912347614897655935}
   - component: {fileID: 6919664369653832579}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: GoToMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -232,7 +232,7 @@ GameObject:
   - component: {fileID: 3994277227384976304}
   - component: {fileID: 4452183642591453125}
   m_Layer: 5
-  m_Name: Button
+  m_Name: TryAgain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -783,7 +783,7 @@ MonoBehaviour:
   loseText: {fileID: 485145387036790916}
   victoryPanel: {fileID: 0}
   menuPanel: {fileID: 0}
-  hintText: {fileID: 0}
+  hint: {fileID: 0}
 --- !u!1 &7563186580381488002
 GameObject:
   m_ObjectHideFlags: 0
@@ -959,7 +959,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8680972845743251967
 RectTransform:
   m_ObjectHideFlags: 0
