@@ -25,6 +25,7 @@ public class PlayerMovment : MonoBehaviour
     private InteractebleObject activeFlammableObject;
     private InteractebleObject activeInterObject;
     private Transform defaulParent;
+    private Animator animator;
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -42,6 +43,7 @@ public class PlayerMovment : MonoBehaviour
             }
         }
         defaulParent = transform.parent;
+        animator = GetComponent<Animator>();
     }
     public void Move(float directionX, float directionY)
     {
@@ -52,6 +54,22 @@ public class PlayerMovment : MonoBehaviour
             directionY = rigidbody.velocity.y;
         }
         rigidbody.velocity = new Vector2(directionX, directionY);
+        if (!isJumpin&&rigidbody.velocity.magnitude>0.5)
+        {
+            animator.SetBool("Run",true);
+        }
+        else
+        {
+            animator.SetBool("Run", false);
+        }
+        if (directionX > 0)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if(directionX<0)
+        {
+            spriteRenderer.flipX = true;
+        }
     }
     public void Jump()
     {
@@ -59,6 +77,7 @@ public class PlayerMovment : MonoBehaviour
         {
             isJumpin = true;
             rigidbody.AddForce(jumpVector, ForceMode2D.Impulse);
+            animator.SetTrigger("Jump");
         }
     }
     private void Update()
@@ -121,6 +140,7 @@ public class PlayerMovment : MonoBehaviour
         {
             playerSpeed = deffaultSpeed * 0.5f;
             collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+            animator.SetTrigger("Push");
         }
         if (collision.tag == "Death")
         {
@@ -207,6 +227,7 @@ public class PlayerMovment : MonoBehaviour
             {
                 flammableObjects.Remove(activeFlammableObject);
                 StartCoroutine(Flame());
+                animator.SetTrigger("Cast");
             }
         }
     }

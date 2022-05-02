@@ -71,7 +71,7 @@ SpriteRenderer:
   m_SortingLayerID: 1947307923
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: be684ffb2daa3c84da9c02cde019541a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0d901e2ee425d5b469a814254385ec95, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 8877344215880005853}
   - component: {fileID: 8877344215880005666}
   - component: {fileID: 8877344215880005667}
+  - component: {fileID: 6255670543785348491}
   m_Layer: 0
   m_Name: PlayerBlack
   m_TagString: Untagged
@@ -111,7 +112,7 @@ Transform:
   m_GameObject: {fileID: 8877344215880005665}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.28, y: 0.94, z: 0}
-  m_LocalScale: {x: 0.4397, y: 0.46772465, z: 1}
+  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
   m_Children:
   - {fileID: 8877344215196752647}
   m_Father: {fileID: 0}
@@ -154,10 +155,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1947307923
+  m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: be684ffb2daa3c84da9c02cde019541a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0d901e2ee425d5b469a814254385ec95, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -181,8 +182,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.058219466}
-  m_Size: {x: 1, y: 1.8835609}
+  m_Offset: {x: -0.07649803, y: 0.057326555}
+  m_Size: {x: 0.8127556, y: 3.246305}
   m_Direction: 0
 --- !u!50 &8877344215880005666
 Rigidbody2D:
@@ -221,9 +222,28 @@ MonoBehaviour:
   virtualCamera: {fileID: 0}
   isActiveAbility: 0
   playerSpeed: 3
-  jumpPower: 7
+  jumpPower: 6
   toGroundDistance: 0.5
   itsWhite: 0
   realPlayer: {fileID: 8877344215196752645}
-  abilityDistance: 5
+  abilityDistance: 3
   control: {fileID: 0}
+--- !u!95 &6255670543785348491
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8877344215880005665}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d60c0c88f7824cb4f87bbbba368d8778, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

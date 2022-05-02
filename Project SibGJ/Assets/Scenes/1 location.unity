@@ -378,33 +378,9 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2066423380}
     - target: {fileID: 623877555130415264, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
-      propertyPath: jumpPower
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 623877555130415264, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
       propertyPath: virtualCamera
       value: 
       objectReference: {fileID: 1817252024}
-    - target: {fileID: 623877555130415264, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
-      propertyPath: abilityDistance
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 623877555130415266, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
-      propertyPath: m_Size.y
-      value: 1.6970468
-      objectReference: {fileID: 0}
-    - target: {fileID: 623877555130415266, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
-      propertyPath: m_Offset.y
-      value: 0.15147671
-      objectReference: {fileID: 0}
-    - target: {fileID: 623877555130415267, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
-      propertyPath: m_SortingLayer
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 623877555130415267, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 1947307923
-      objectReference: {fileID: 0}
     - target: {fileID: 623877555130415268, guid: 320f843688b21284bb08f7d01e7ad299, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -695,33 +671,9 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2066423380}
     - target: {fileID: 8877344215880005667, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
-      propertyPath: jumpPower
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 8877344215880005667, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
       propertyPath: virtualCamera
       value: 
       objectReference: {fileID: 908777763}
-    - target: {fileID: 8877344215880005667, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
-      propertyPath: abilityDistance
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8877344215880005852, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
-      propertyPath: m_SortingLayer
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8877344215880005852, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 1947307923
-      objectReference: {fileID: 0}
-    - target: {fileID: 8877344215880005853, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
-      propertyPath: m_Size.y
-      value: 1.7530311
-      objectReference: {fileID: 0}
-    - target: {fileID: 8877344215880005853, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
-      propertyPath: m_Offset.y
-      value: 0.12348439
-      objectReference: {fileID: 0}
     - target: {fileID: 8877344215880005855, guid: 10434ab98eba97a498fd4da479872b88, type: 3}
       propertyPath: m_RootOrder
       value: 0
