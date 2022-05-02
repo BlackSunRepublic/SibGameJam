@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovment : MonoBehaviour
 {
     public bool isActive;
+    public GameObject virtualCamera;
     [HideInInspector] public bool isActiveAbility;
     [SerializeField] private float playerSpeed;
     [SerializeField] private float jumpPower;
@@ -13,20 +14,20 @@ public class PlayerMovment : MonoBehaviour
     [Header("Только для тени")]
     [SerializeField] private GameObject realPlayer;
     [SerializeField] private float abilityDistance;
+    [SerializeField] private Control control;
     private Rigidbody2D rigidbody;
     private bool isJumpin = false;
-    private Vector2 jumpVector;
-    private Control control;
+    private Vector2 jumpVector;    
     private float deffaultSpeed;
     private SpriteRenderer spriteRenderer;
     private float startTimer;
     private List<InteractebleObject> flammableObjects = new List<InteractebleObject>();
     private InteractebleObject activeFlammableObject;
     private InteractebleObject activeInterObject;
+    private Transform defaulParent;
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
-        control = GetComponent<Control>();
         jumpVector = new Vector2(0, jumpPower);
         Debug.DrawRay(transform.position, Vector2.down * 5, Color.red);
         deffaultSpeed = playerSpeed;
@@ -40,10 +41,17 @@ public class PlayerMovment : MonoBehaviour
                 flammableObjects.Add(gameObj.GetComponent<InteractebleObject>());
             }
         }
+        defaulParent = transform.parent;
     }
-    public void Move(float direction)
+    public void Move(float directionX, float directionY)
     {
-        rigidbody.velocity = new Vector2(direction * playerSpeed, rigidbody.velocity.y);
+        directionX *= playerSpeed;
+        directionY *= playerSpeed;
+        if (!isActiveAbility)
+        {
+            directionY = rigidbody.velocity.y;
+        }
+        rigidbody.velocity = new Vector2(directionX, directionY);
     }
     public void Jump()
     {
@@ -60,22 +68,21 @@ public class PlayerMovment : MonoBehaviour
         if (hit.collider)
         {
             isJumpin = false;
+            transform.parent = hit.transform.parent; 
         }
         else
         {
             isJumpin = true;
+            transform.parent = defaulParent;
         }
+
         if (isActiveAbility && !itsWhite)
         {
-            if((transform.position.x - realPlayer.transform.position.x) > abilityDistance)
-            {
-                transform.position = new Vector2(realPlayer.transform.position.x + abilityDistance, transform.position.y);
-            }
-            if ((transform.position.x - realPlayer.transform.position.x) < - abilityDistance)
-            {
-                transform.position = new Vector2(realPlayer.transform.position.x - abilityDistance, transform.position.y);
-            }
+            Vector2 offset = transform.position - realPlayer.transform.position;
+            Vector2 rPosition = realPlayer.transform.position;
+            transform.position = rPosition + Vector2.ClampMagnitude(offset, abilityDistance);
         }
+        //Подсветка горящего объекта
         if (Time.time - startTimer > 1.0f && itsWhite)
         {
             foreach(InteractebleObject iObj in flammableObjects)
@@ -127,6 +134,24 @@ public class PlayerMovment : MonoBehaviour
                 UI.UIData.loseText.text = "Тень погиб...";
             }
         }
+        if(collision.tag == "Finish")
+        {
+            control.shadow.gameObject.SetActive(true);
+            control.SwitchPerson();
+            gameObject.SetActive(false);
+        }
+        if(collision.tag == "HintCollider")
+        {
+            if (itsWhite)
+            {
+                UI.UIData.MessageText("У Дейзи есть способность поджигать предметы на расстоянии, нажми на F что бы пожечь веревку удерживающую платформу ", 5);
+            }
+            else
+            {
+                UI.UIData.MessageText("Способность тени - выпускать дух, который может летать и проходить сквозь перпятствия", 4);
+            }
+            Destroy(collision.gameObject);
+        }
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
@@ -144,34 +169,51 @@ public class PlayerMovment : MonoBehaviour
     }
     public void Ability()
     {
-        if (!itsWhite&&!isJumpin)
+        if (!itsWhite)
         {
-            isActiveAbility = !isActiveAbility;
-            Color color = spriteRenderer.color;
-            if (isActiveAbility)
             {
-                color.a = 0.5f;
-                gameObject.layer = LayerMask.NameToLayer("Shadow");
-                realPlayer.transform.parent = transform.parent;
-                realPlayer.SetActive(true);
+                if(!isJumpin && !isActiveAbility) 
+                {
+                    isActiveAbility = true;
+                }
+                else
+                {
+                    isActiveAbility = false;
+                }
+                Color color = spriteRenderer.color;
+                if (isActiveAbility)
+                {
+                    color.a = 0.5f;
+                    gameObject.layer = LayerMask.NameToLayer("Shadow");
+                    rigidbody.gravityScale = 0;
+                    realPlayer.transform.parent = transform.parent;
+                    realPlayer.SetActive(true);
+                }
+                else
+                {
+                    color.a = 1;
+                    gameObject.layer = LayerMask.NameToLayer("Default");
+                    transform.position = realPlayer.transform.position;
+                    realPlayer.transform.parent = transform;
+                    realPlayer.SetActive(false);
+                    rigidbody.gravityScale = 1;
+                }
+                spriteRenderer.color = color;
             }
-            else
-            {
-                color.a = 1;
-                gameObject.layer = LayerMask.NameToLayer("Default");
-                transform.position = realPlayer.transform.position;
-                realPlayer.transform.parent = transform;
-                realPlayer.SetActive(false);
-            }
-            spriteRenderer.color = color;
         }
         else
         {
             if (activeFlammableObject)
             {
                 flammableObjects.Remove(activeFlammableObject);
-                Destroy(activeFlammableObject.gameObject, 2);
+                StartCoroutine(Flame());
             }
         }
+    }
+    private IEnumerator Flame()
+    {
+        yield return new WaitForSeconds(2);
+        activeFlammableObject.StartEvent();
+        Destroy(activeFlammableObject.gameObject);
     }
 }

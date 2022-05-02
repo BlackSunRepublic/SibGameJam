@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 623877555130415266}
   - component: {fileID: 623877555130415265}
   - component: {fileID: 623877555130415264}
-  - component: {fileID: 623877555130415279}
   m_Layer: 0
   m_Name: PlayerWhite
   m_TagString: Player
@@ -136,23 +135,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isActive: 1
+  virtualCamera: {fileID: 0}
   isActiveAbility: 0
   playerSpeed: 3
-  jumpPower: 5
+  jumpPower: 4
   toGroundDistance: 0.5
   itsWhite: 1
   realPlayer: {fileID: 0}
   abilityDistance: 7
---- !u!114 &623877555130415279
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 623877555130415278}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dba97df51a5461641b28c3d0f042985e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isInteract: 0
+  control: {fileID: 0}

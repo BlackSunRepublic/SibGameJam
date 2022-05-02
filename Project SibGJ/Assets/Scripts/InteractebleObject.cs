@@ -19,16 +19,22 @@ public class InteractebleObject : MonoBehaviour
         if (isContact)
         {
             spriteRenderer.material = outlineMaterial;
-            hint.SetActive(true);
+            if (hint)
+            {
+                hint.SetActive(true);
+            }
         }
         else
         {
             spriteRenderer.material = defaultMaterial;
-            hint.SetActive(false);
+            if (hint)
+            {
+                hint.SetActive(false);
+            }
         }
     }
     public void StartEvent()
     {
-        eventAnimation.Play("Action");
+        eventAnimation.enabled = true;
     }
 }

@@ -9,6 +9,7 @@ TagManager:
   - Movment
   - Flammable
   - Death
+  - HintCollider
   layers:
   - Default
   - TransparentFX
@@ -45,4 +46,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3627373715
+    locked: 0
+  - name: Player
+    uniqueID: 1947307923
+    locked: 0
+  - name: InteractebleObjects
+    uniqueID: 3673078287
+    locked: 0
+  - name: Platform
+    uniqueID: 2963844123
     locked: 0
