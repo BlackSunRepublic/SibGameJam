@@ -35,6 +35,9 @@ public class InteractebleObject : MonoBehaviour
     }
     public void StartEvent()
     {
-        eventAnimation.enabled = true;
+        if (eventAnimation)
+        {
+            eventAnimation.enabled = true;
+        }
     }
 }

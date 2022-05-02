@@ -115,6 +115,7 @@ public class PlayerMovment : MonoBehaviour
                 else 
                 {
                     iObj.Contact(false);
+                    break;
                 }
                 activeFlammableObject = null;
             }
