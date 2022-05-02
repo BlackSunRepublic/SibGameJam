@@ -13,6 +13,7 @@ public class PlayerMovment : MonoBehaviour
     [SerializeField] private bool itsWhite;
     [Header("Только для тени")]
     [SerializeField] private GameObject realPlayer;
+    [SerializeField] private RuntimeAnimatorController spiritAnimator;
     [SerializeField] private float abilityDistance;
     [SerializeField] private Control control;
     private Rigidbody2D rigidbody;
@@ -26,6 +27,7 @@ public class PlayerMovment : MonoBehaviour
     private InteractebleObject activeInterObject;
     private Transform defaulParent;
     private Animator animator;
+    private RuntimeAnimatorController defaultAnimatorController;
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -44,6 +46,7 @@ public class PlayerMovment : MonoBehaviour
         }
         defaulParent = transform.parent;
         animator = GetComponent<Animator>();
+        defaultAnimatorController = animator.runtimeAnimatorController;
     }
     public void Move(float directionX, float directionY)
     {
@@ -54,7 +57,7 @@ public class PlayerMovment : MonoBehaviour
             directionY = rigidbody.velocity.y;
         }
         rigidbody.velocity = new Vector2(directionX, directionY);
-        if (!isJumpin&&rigidbody.velocity.magnitude>0.5)
+        if ((!isJumpin && rigidbody.velocity.magnitude>0.5)||(isActiveAbility && rigidbody.velocity.magnitude > 0.5))
         {
             animator.SetBool("Run",true);
         }
@@ -110,14 +113,15 @@ public class PlayerMovment : MonoBehaviour
                 {
                     iObj.Contact(true);
                     activeFlammableObject = iObj;
+                   // Debug.Log(iObj.name);
                     break;
                 }
                 else 
                 {
                     iObj.Contact(false);
-                    break;
+                    Debug.Log(iObj.name);
                 }
-                activeFlammableObject = null;
+                //activeFlammableObject = null;
             }
             startTimer = Time.time;
         }
@@ -159,6 +163,10 @@ public class PlayerMovment : MonoBehaviour
         {
             control.shadow.gameObject.SetActive(true);
             control.SwitchPerson();
+            if (!control.shadow.gameObject.activeSelf || !control.dasy.gameObject.activeSelf)
+            {
+                UI.UIData.NextScene();
+            }
             gameObject.SetActive(false);
         }
         if(collision.tag == "HintCollider")
@@ -204,6 +212,7 @@ public class PlayerMovment : MonoBehaviour
                 Color color = spriteRenderer.color;
                 if (isActiveAbility)
                 {
+                    animator.runtimeAnimatorController = spiritAnimator;
                     color.a = 0.5f;
                     gameObject.layer = LayerMask.NameToLayer("Shadow");
                     rigidbody.gravityScale = 0;
@@ -212,6 +221,7 @@ public class PlayerMovment : MonoBehaviour
                 }
                 else
                 {
+                    animator.runtimeAnimatorController = defaultAnimatorController;
                     color.a = 1;
                     gameObject.layer = LayerMask.NameToLayer("Default");
                     transform.position = realPlayer.transform.position;

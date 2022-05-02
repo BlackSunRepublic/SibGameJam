@@ -226,6 +226,7 @@ MonoBehaviour:
   toGroundDistance: 0.5
   itsWhite: 0
   realPlayer: {fileID: 8877344215196752645}
+  spiritAnimator: {fileID: 9100000, guid: 2dc398f97bc20e349a08e7c524bfdf8e, type: 2}
   abilityDistance: 3
   control: {fileID: 0}
 --- !u!95 &6255670543785348491
