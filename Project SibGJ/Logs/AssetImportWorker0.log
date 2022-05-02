@@ -1,0 +1,485 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.15f2 (6cf78cb77498) revision 7141260'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1645; Version 2009; 64bit' Language: 'ru' Physical Memory: 32652 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.15f2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Development/SibGameJam/Project SibGJ
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53715
+Successfully changed project path to: C:/Development/SibGameJam/Project SibGJ
+C:/Development/SibGameJam/Project SibGJ
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 62.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.15f2 (6cf78cb77498)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Development/SibGameJam/Project SibGJ/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   30.0.14.9729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002112 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1034ms)
+		BeginReloadAssembly (50ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (393ms)
+			LoadAssemblies (47ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (139ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (162ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (53ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004766 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000018EED7DD880 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Assembly-CSharp.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED55C010 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF2F98B20 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED945830 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED844A00 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED890420 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EEDC915C0 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED65D880 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF3173020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF2883030 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED65D880 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF211F010 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF214D220 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF3245240 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF214D220 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF3173020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF1FAF230 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED690370 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF3173020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF29E8010 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED9D4B40 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF28DB020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED9F5C90 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF288B040 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED710020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF33E6020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF21A1E20 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF33E6020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EED710020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF3129200 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF22C3010 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF2462030 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EE83F52B0 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF2B1D840 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF3729030 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF288B040 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000018EF33E6020 doesn't match image C:\Development\SibGameJam\Project SibGJ\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.067 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1068ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (877ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (294ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (334ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (54ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (187ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2350 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.6 MB.
+System memory in use after: 103.8 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2787.
+Total: 2.035000 ms (FindLiveObjects: 0.233100 ms CreateObjectMapping: 0.109500 ms MarkObjects: 1.637900 ms  DeleteObjects: 0.053600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sounds/Fall_wood_sound.mp3
+  artifactKey: Guid(501a2dd9cf2235748beb1c51e98b6d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Fall_wood_sound.mp3 using Guid(501a2dd9cf2235748beb1c51e98b6d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8863e96fdca6b7f8d2db93d89d69f3bb') in 0.159290 seconds 
+  Import took 0.162787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Sounds/Push_sound.mp3
+  artifactKey: Guid(c90b2d1d54de77c41b2116d425979a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Push_sound.mp3 using Guid(c90b2d1d54de77c41b2116d425979a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bdf4131201d824447b53f1204aa755e') in 0.007646 seconds 
+  Import took 0.011363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Sounds/Fire_sound.mp3
+  artifactKey: Guid(d3bb7bbdb2d7c334ca596bdd5a1b6816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Fire_sound.mp3 using Guid(d3bb7bbdb2d7c334ca596bdd5a1b6816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c4b09808f97aa4118a33928f228837b') in 0.013440 seconds 
+  Import took 0.017049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sounds/Jump_sound.mp3
+  artifactKey: Guid(ba90c7831d23fb74ca9ac7c38d99d23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Jump_sound.mp3 using Guid(ba90c7831d23fb74ca9ac7c38d99d23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c9d9759c6803f2188bb69f762030e6') in 0.008887 seconds 
+  Import took 0.012907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Sounds/Forest_ambient.mp3
+  artifactKey: Guid(df9ebe33a334f514cb3659997ca66400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Forest_ambient.mp3 using Guid(df9ebe33a334f514cb3659997ca66400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568006666daad04807f94d9a4e8cd95c') in 0.011453 seconds 
+  Import took 0.015128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Sounds/Walk_sound.mp3
+  artifactKey: Guid(c528801d08398344cb8be79c141330e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Walk_sound.mp3 using Guid(c528801d08398344cb8be79c141330e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e114622389f7c68421f7656f54d7318') in 0.012413 seconds 
+  Import took 0.016110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.131262 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_00.png
+  artifactKey: Guid(b184890b652b18642b95da7dc0a2fa84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_00.png using Guid(b184890b652b18642b95da7dc0a2fa84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '202d8373141059ca83d33eee0160c1ca') in 0.036957 seconds 
+  Import took 0.041197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_11.png
+  artifactKey: Guid(d7c3cac5bb7a0944299310a303e98d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_11.png using Guid(d7c3cac5bb7a0944299310a303e98d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5a26e0e18c5da1ecba32a04308ce18') in 0.010036 seconds 
+  Import took 0.013353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_26.png
+  artifactKey: Guid(f7912076d7af3f948a1fd432a3decebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_26.png using Guid(f7912076d7af3f948a1fd432a3decebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5db91815bd3db0ed423fcb465e47740') in 0.018694 seconds 
+  Import took 0.021959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_02.png
+  artifactKey: Guid(73f8aa6ccd5ff454a8c20718bc07487e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_02.png using Guid(73f8aa6ccd5ff454a8c20718bc07487e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820f4e240783dad0c47ccd7223af2ab3') in 0.009065 seconds 
+  Import took 0.012412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_13.png
+  artifactKey: Guid(9aac5a3366f8c1942a8e726f0c5cc686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_13.png using Guid(9aac5a3366f8c1942a8e726f0c5cc686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e48927e80b691521dc99db85be14ba') in 0.011917 seconds 
+  Import took 0.015669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_05.png
+  artifactKey: Guid(51af2a2f008017941bf5fb4db9cec1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_05.png using Guid(51af2a2f008017941bf5fb4db9cec1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4b4d4bd2b8c1a6d57ce92f3255fbd9') in 0.013282 seconds 
+  Import took 0.016963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_07.png
+  artifactKey: Guid(d4975e83fc8aecd4d83dc51163e8a792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_07.png using Guid(d4975e83fc8aecd4d83dc51163e8a792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f874e2b14d8563c426a84d10092bce') in 0.009662 seconds 
+  Import took 0.013324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_24.png
+  artifactKey: Guid(d1a28322752c79b49b5b9b87fe564cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_24.png using Guid(d1a28322752c79b49b5b9b87fe564cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729643d6c008e696b0364aefb7bcf619') in 0.012188 seconds 
+  Import took 0.015724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_12.png
+  artifactKey: Guid(bc2d637e344143b47af0f955d3e046f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_12.png using Guid(bc2d637e344143b47af0f955d3e046f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec082fc90073bbc158e0e7af20e1581') in 0.012462 seconds 
+  Import took 0.016022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_18.png
+  artifactKey: Guid(6bc4b1795aead074fba6de369b1bed73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_18.png using Guid(6bc4b1795aead074fba6de369b1bed73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c719dc573c011a1476acbb8ce7c410') in 0.013842 seconds 
+  Import took 0.017536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_04.png
+  artifactKey: Guid(5f6435abf44a8e94e8b8941d0e30d1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_04.png using Guid(5f6435abf44a8e94e8b8941d0e30d1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d8027f1986c81b98a19af7715639f9') in 0.010893 seconds 
+  Import took 0.014344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_17.png
+  artifactKey: Guid(fd50ddb0dd424f84d8c42fad5652098c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_17.png using Guid(fd50ddb0dd424f84d8c42fad5652098c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16132d6811894b247d77dec6adf1d4ac') in 0.010456 seconds 
+  Import took 0.013934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_19.png
+  artifactKey: Guid(4233cf534e431a748b630a471474c5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_19.png using Guid(4233cf534e431a748b630a471474c5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f860b9d3dbebd81dc3a8a8dae8cbccab') in 0.012741 seconds 
+  Import took 0.016377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_21.png
+  artifactKey: Guid(4c875482cd28b934fb5006f9e364ec84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_21.png using Guid(4c875482cd28b934fb5006f9e364ec84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20f4b53e785fae1c66674555ddca452e') in 0.012237 seconds 
+  Import took 0.016138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_08.png
+  artifactKey: Guid(04dc7b59b5a4c7744ba0c187a0a11e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_08.png using Guid(04dc7b59b5a4c7744ba0c187a0a11e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62608729114ae07aaedcb049ed5e2f49') in 0.012226 seconds 
+  Import took 0.015648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_14.png
+  artifactKey: Guid(24459804b3f1e524aad8f3554da069e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_14.png using Guid(24459804b3f1e524aad8f3554da069e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28173cbb9cfe882035ead6c0f4aa6f94') in 0.013535 seconds 
+  Import took 0.016866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_16.png
+  artifactKey: Guid(4a651aefb6103cf46b5ef1eb12901971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_16.png using Guid(4a651aefb6103cf46b5ef1eb12901971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a85b6ffb57433bc97a74902a4cfe925') in 0.008533 seconds 
+  Import took 0.011857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_14.png
+  artifactKey: Guid(24459804b3f1e524aad8f3554da069e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_14.png using Guid(24459804b3f1e524aad8f3554da069e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28173cbb9cfe882035ead6c0f4aa6f94') in 0.008138 seconds 
+  Import took 0.011432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_10.png
+  artifactKey: Guid(45b9463f2cb92cb48bba3f139bb9aa1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_10.png using Guid(45b9463f2cb92cb48bba3f139bb9aa1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bfd5c77abde950edd1d3db42889ccee') in 0.008269 seconds 
+  Import took 0.012002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_03.png
+  artifactKey: Guid(2a296cad40d88f944ac0b237355fbcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_03.png using Guid(2a296cad40d88f944ac0b237355fbcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785414623c1a2f54f93afc40b521b060') in 0.008396 seconds 
+  Import took 0.011826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_20.png
+  artifactKey: Guid(8c2de85f1f6135a449deaffd303dfd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_20.png using Guid(8c2de85f1f6135a449deaffd303dfd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5baa88de6d2c1c54d474c53912389783') in 0.008542 seconds 
+  Import took 0.011976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_01.png
+  artifactKey: Guid(cb78dc66c54895641927806e3ec503f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_01.png using Guid(cb78dc66c54895641927806e3ec503f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ceef6c805f3f6bef98733d0162f26f4') in 0.008354 seconds 
+  Import took 0.011891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_09.png
+  artifactKey: Guid(0a2c746a57ce526459b0c3abeba90026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_09.png using Guid(0a2c746a57ce526459b0c3abeba90026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a1855e7dd700c99b1138b1604def14') in 0.008687 seconds 
+  Import took 0.012249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_22.png
+  artifactKey: Guid(aaa63bc364334764584f3e9fb062ddb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_22.png using Guid(aaa63bc364334764584f3e9fb062ddb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b4c7b22feeb9b35b6d7b4b3a0fc6e62') in 0.009316 seconds 
+  Import took 0.012763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_06.png
+  artifactKey: Guid(f8ed15583f30d274cb4d077fb26da3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_06.png using Guid(f8ed15583f30d274cb4d077fb26da3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f30732566bf7ebc8e33874f963ecfb') in 0.008505 seconds 
+  Import took 0.012206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_23.png
+  artifactKey: Guid(82976335114debe41b7dd24a67fbc812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_23.png using Guid(82976335114debe41b7dd24a67fbc812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952446681c5df961599e53a231a99ef0') in 0.008264 seconds 
+  Import took 0.011746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_15.png
+  artifactKey: Guid(87b320854bc69cc4898ebef50e9e7cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_15.png using Guid(87b320854bc69cc4898ebef50e9e7cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362ba56cabfd3c4b958389f53b3a4b5b') in 0.008478 seconds 
+  Import took 0.011917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_23.png
+  artifactKey: Guid(82976335114debe41b7dd24a67fbc812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_23.png using Guid(82976335114debe41b7dd24a67fbc812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952446681c5df961599e53a231a99ef0') in 0.009741 seconds 
+  Import took 0.013347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_25.png
+  artifactKey: Guid(3952189f7f0bd3143baead61206cf821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Spirit/Animations/Idle/Spirit_Idle_25.png using Guid(3952189f7f0bd3143baead61206cf821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0311881dce5c4041636d66f9176a1c1') in 0.008419 seconds 
+  Import took 0.011869 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
