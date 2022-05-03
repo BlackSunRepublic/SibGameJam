@@ -6746,6 +6746,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1655771182774744338, guid: 58d1ffc0a1993b546869837663e00b5c, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1655771182774744338, guid: 58d1ffc0a1993b546869837663e00b5c, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -621889009
+      objectReference: {fileID: 0}
     - target: {fileID: 8028523921715724851, guid: 58d1ffc0a1993b546869837663e00b5c, type: 3}
       propertyPath: m_Camera
       value: 
