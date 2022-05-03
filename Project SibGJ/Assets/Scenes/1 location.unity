@@ -5820,6 +5820,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 93742514, guid: 5bf5b91faace750489251ba9d61fb607, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2623132868282512091, guid: 5bf5b91faace750489251ba9d61fb607, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.8
@@ -6866,6 +6870,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Flamed_00
       objectReference: {fileID: 0}
+    - target: {fileID: 4437454136510863461, guid: 0f5450fb3de7c3b448e8a6dd7e9c69ae, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f5450fb3de7c3b448e8a6dd7e9c69ae, type: 3}
 --- !u!1001 &4831289622043000058
@@ -6944,6 +6952,18 @@ PrefabInstance:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: 88a648b4b661a714a9ca0f785b430585, type: 3}
+    - target: {fileID: 1041762321139157190, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1041762321139157190, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CloseMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 1433551379923786783, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -10.187134
+      objectReference: {fileID: 0}
     - target: {fileID: 1775106749764114327, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 30
