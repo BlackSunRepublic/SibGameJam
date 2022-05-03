@@ -27,5 +27,15 @@ public class UI : MonoBehaviour
         int index = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(index + 1);
     }
-   
+    private void Update()
+    {
+        if (Input.GetKey(KeyCode.Escape))
+        {
+                menuPanel.SetActive(true);
+        }
+    }
+    public void CloseMenu()
+    {
+        menuPanel.SetActive(false);
+    }
 }
