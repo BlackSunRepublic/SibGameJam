@@ -123,7 +123,6 @@ public class PlayerMovment : MonoBehaviour
                 else 
                 {
                     iObj.Contact(false);
-                    Debug.Log(iObj.name);
                 }
                 //activeFlammableObject = null;
             }
@@ -183,7 +182,7 @@ public class PlayerMovment : MonoBehaviour
         if (collision.transform.tag == "Movment")
         {
             playerSpeed = deffaultSpeed * 0.5f;
-            collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+            //collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
             animator.SetBool("Push", true);
             if (!Sounds.PlaySound.push.isPlaying)
             {
@@ -203,7 +202,7 @@ public class PlayerMovment : MonoBehaviour
         {
             animator.SetBool("Push", false);
             playerSpeed = deffaultSpeed;
-            collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+            //collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
             Sounds.PlaySound.push.Stop();
         }
     }
