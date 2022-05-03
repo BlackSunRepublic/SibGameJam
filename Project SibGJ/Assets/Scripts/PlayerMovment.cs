@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMovment : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class PlayerMovment : MonoBehaviour
     [SerializeField] private RuntimeAnimatorController spiritAnimator;
     [SerializeField] private float abilityDistance;
     [SerializeField] private Control control;
+    [SerializeField] private GameObject messager;
     private Rigidbody2D rigidbody;
     private bool isJumpin = false;
     private Vector2 jumpVector;    
@@ -28,6 +30,7 @@ public class PlayerMovment : MonoBehaviour
     private Transform defaulParent;
     private Animator animator;
     private RuntimeAnimatorController defaultAnimatorController;
+    private Text messageText;
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -47,6 +50,7 @@ public class PlayerMovment : MonoBehaviour
         defaulParent = transform.parent;
         animator = GetComponent<Animator>();
         defaultAnimatorController = animator.runtimeAnimatorController;
+        messageText = messager.GetComponentInChildren<Text>();        
     }
     public void Move(float directionX, float directionY)
     {
@@ -165,15 +169,13 @@ public class PlayerMovment : MonoBehaviour
         }
         if(collision.tag == "HintCollider")
         {
-            if (itsWhite)
+            MessageTrigger mt = collision.GetComponent<MessageTrigger>();
+            if ((itsWhite && mt.itsDayze) || (!itsWhite && !mt.itsDayze))
             {
-                UI.UIData.MessageText("У Дейзи есть способность поджигать предметы на расстоянии, нажми на F что бы пожечь веревку удерживающую платформу ", 5);
+                MessageText(mt.message, mt.timeAction);
+                Destroy(collision.gameObject);
             }
-            else
-            {
-                UI.UIData.MessageText("Способность тени - выпускать дух, который может летать и проходить сквозь перпятствия", 4);
-            }
-            Destroy(collision.gameObject);
+            
         }
     }
     private void OnTriggerStay2D(Collider2D collision)
@@ -246,6 +248,10 @@ public class PlayerMovment : MonoBehaviour
             if (activeFlammableObject)
             {
                 flammableObjects.Remove(activeFlammableObject);
+                if (activeFlammableObject.flame)
+                {
+                    activeFlammableObject.flame.SetActive(true);
+                }
                 StartCoroutine(Flame());
                 animator.SetTrigger("Cast");
                 Sounds.PlaySound.fire.Play();
@@ -266,5 +272,17 @@ public class PlayerMovment : MonoBehaviour
     public void PlayJump()
     {
         Sounds.PlaySound.jump.Play();
+    }
+    public void MessageText(string text, int seconds)
+    {
+        messager.SetActive(true);
+        messageText.text = text;
+        StartCoroutine(SendHint(seconds));
+    }
+    IEnumerator SendHint(int seconds)
+    {
+        yield return new WaitForSeconds(seconds);
+        messageText.text = "";
+        messager.SetActive(false);
     }
 }

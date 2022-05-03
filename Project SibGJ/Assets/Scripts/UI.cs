@@ -27,16 +27,5 @@ public class UI : MonoBehaviour
         int index = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(index + 1);
     }
-    public void MessageText(string text, int seconds)
-    {
-        hint.SetActive(true);
-        hintText.text = text;
-        StartCoroutine(SendHint(seconds));
-    } 
-    IEnumerator SendHint(int seconds)
-    {
-        yield return new WaitForSeconds(seconds);
-        hintText.text = "";
-        hint.SetActive(false);
-    } 
+   
 }

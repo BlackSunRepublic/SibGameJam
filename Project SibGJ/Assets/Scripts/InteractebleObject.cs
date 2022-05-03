@@ -9,6 +9,7 @@ public class InteractebleObject : MonoBehaviour
     [SerializeField] Material defaultMaterial;
     [SerializeField] GameObject hint;
     [SerializeField] Animator eventAnimation;
+    public GameObject flame;
     private SpriteRenderer spriteRenderer;
     private void Awake()
     {
