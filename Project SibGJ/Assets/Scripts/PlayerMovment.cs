@@ -141,12 +141,6 @@ public class PlayerMovment : MonoBehaviour
             activeInterObject = collision.GetComponent<InteractebleObject>();
             activeInterObject.Contact(true);
         }
-        if (collision.transform.tag == "Movment")
-        {
-            playerSpeed = deffaultSpeed * 0.5f;
-            collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
-            animator.SetTrigger("Push");
-        }
         if (collision.tag == "Death")
         {
             UI.UIData.losePanel.SetActive(true);
@@ -182,6 +176,19 @@ public class PlayerMovment : MonoBehaviour
             Destroy(collision.gameObject);
         }
     }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.transform.tag == "Movment")
+        {
+            playerSpeed = deffaultSpeed * 0.5f;
+            collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+            animator.SetBool("Push", true);
+            if (!Sounds.PlaySound.push.isPlaying)
+            {
+                Sounds.PlaySound.push.Play();
+            }
+        }
+    }
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.tag == "Interaction")
@@ -192,8 +199,10 @@ public class PlayerMovment : MonoBehaviour
         }
         if (collision.transform.tag == "Movment")
         {
+            animator.SetBool("Push", false);
             playerSpeed = deffaultSpeed;
             collision.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+            Sounds.PlaySound.push.Stop();
         }
     }
     public void Ability()
@@ -239,6 +248,7 @@ public class PlayerMovment : MonoBehaviour
                 flammableObjects.Remove(activeFlammableObject);
                 StartCoroutine(Flame());
                 animator.SetTrigger("Cast");
+                Sounds.PlaySound.fire.Play();
             }
         }
     }
@@ -247,5 +257,14 @@ public class PlayerMovment : MonoBehaviour
         yield return new WaitForSeconds(2);
         activeFlammableObject.StartEvent();
         Destroy(activeFlammableObject.gameObject);
+    }
+    public void PlayStep()
+    {
+        Sounds.PlaySound.step.pitch = Random.Range(0.8f, 1.2f);
+        Sounds.PlaySound.step.Play();
+    }
+    public void PlayJump()
+    {
+        Sounds.PlaySound.jump.Play();
     }
 }

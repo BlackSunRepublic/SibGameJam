@@ -46,6 +46,8 @@ public class Control : MonoBehaviour
                 move.virtualCamera.SetActive(true);
                 move.isActive = true;
                 isSwith = true;
+                //ColorGradation.isInvert = false;
+                ColorGradation.isStarted = true;
             }
             else if (!move.isActiveAbility)
             {
@@ -55,6 +57,8 @@ public class Control : MonoBehaviour
                 move.virtualCamera.SetActive(true);
                 move.isActive = true;
                 isSwith = false;
+                //ColorGradation.isInvert = true;
+                ColorGradation.isStarted = true;
             }
         }
     }
