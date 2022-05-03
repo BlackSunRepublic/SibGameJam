@@ -1111,6 +1111,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5130932561444825599, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7a2c8dbd9c78b204c9b4250ae232d337, type: 3}
+    - target: {fileID: 5440708210139285899, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7a2c8dbd9c78b204c9b4250ae232d337, type: 3}
+    - target: {fileID: 6752127058144244636, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6955310864830774492, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
       propertyPath: m_IsActive
       value: 0

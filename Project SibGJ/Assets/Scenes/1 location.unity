@@ -6605,6 +6605,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 485145387036790916, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 88a648b4b661a714a9ca0f785b430585, type: 3}
     - target: {fileID: 1775106749764114327, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 30
@@ -6693,6 +6697,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2397237258372531065, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2958706095690547258, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5130932561444825599, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7a2c8dbd9c78b204c9b4250ae232d337, type: 3}
+    - target: {fileID: 5440708210139285899, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7a2c8dbd9c78b204c9b4250ae232d337, type: 3}
+    - target: {fileID: 5965131443976451629, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6955310864830774492, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7018775418855654429, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
       propertyPath: hint
       value: 
@@ -6701,9 +6729,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7838551841387224867, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8680972845743251967, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 304
+      objectReference: {fileID: 0}
+    - target: {fileID: 8880809273195515142, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9209507105170090173, guid: 7a3d9eb30c0b34e45b95b6956164212b, type: 3}
       propertyPath: m_Name
